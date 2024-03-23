@@ -1,0 +1,2514 @@
+{
+  "tokens": [
+    {
+      "decimals": "18",
+      "id": "0x0000000000000000000000000000000000000000",
+      "symbol": "BNB"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4b6000f9163de2e3f0a01ec37e06e1469dbbce9d",
+      "symbol": "KEYFI"
+    },
+    {
+      "decimals": "18",
+      "id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "symbol": "WBNB"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "BUSD"
+    },
+    {
+      "decimals": "18",
+      "id": "0x55d398326f99059ff775485246999027b3197955",
+      "symbol": "USDT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "symbol": "Cake"
+    },
+    {
+      "decimals": "18",
+      "id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "symbol": "ETH"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "symbol": "BTCB"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "symbol": "USDC"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+      "symbol": "BUNNY"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4269e4090ff9dfc99d8846eb0d42e67f01c3ac8b",
+      "symbol": ""
+    },
+    {
+      "decimals": "18",
+      "id": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+      "symbol": "ALPACA"
+    },
+    {
+      "decimals": "18",
+      "id": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+      "symbol": "XVS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
+      "symbol": "MBOX"
+    },
+    {
+      "decimals": "9",
+      "id": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+      "symbol": "SAFEMOON"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "symbol": "DOT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x12bb890508c125661e03b09ec06e404bc9289040",
+      "symbol": "RACA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "symbol": "DAI"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13",
+      "symbol": "HERO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+      "symbol": "ADA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x31471e0791fcdbe82fbf4c44943255e923f1b794",
+      "symbol": "PVU"
+    },
+    {
+      "decimals": "9",
+      "id": "0xc748673057861a797275cd8a068abb95a902e8de",
+      "symbol": "BabyDoge"
+    },
+    {
+      "decimals": "18",
+      "id": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+      "symbol": "UST"
+    },
+    {
+      "decimals": "18",
+      "id": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
+      "symbol": "BMON"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+      "symbol": "VAI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "symbol": "XRP"
+    },
+    {
+      "decimals": "18",
+      "id": "0xacb8f52dc63bb752a51186d1c55868adbffee9c1",
+      "symbol": "BP"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd7730681b1dc8f6f969166b29d8a5ea8568616a3",
+      "symbol": "NAFT"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+      "symbol": "LINK"
+    },
+    {
+      "decimals": "8",
+      "id": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "symbol": "DOGE"
+    },
+    {
+      "decimals": "18",
+      "id": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+      "symbol": "C98"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe0e514c71282b6f4e823703a39374cf58dc3ea4f",
+      "symbol": "BELT"
+    },
+    {
+      "decimals": "9",
+      "id": "0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
+      "symbol": "FEG"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700",
+      "symbol": "BSCPAD"
+    },
+    {
+      "decimals": "18",
+      "id": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+      "symbol": "UNI"
+    },
+    {
+      "decimals": "4",
+      "id": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+      "symbol": "TLM"
+    },
+    {
+      "decimals": "6",
+      "id": "0xac51066d7bec65dc4589368da368b212745d63e8",
+      "symbol": "ALICE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x844fa82f1e54824655470970f7004dd90546bb28",
+      "symbol": "DOP"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4e6415a5727ea08aae4580057187923aec331227",
+      "symbol": "FINE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
+      "symbol": "SXP"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+      "symbol": "TKO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x339c72829ab7dd45c3c52f965e7abe358dd8761e",
+      "symbol": "WANA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9d70a3ee3079a6fa2bb16591414678b7ad91f0b5",
+      "symbol": "MEPAD"
+    },
+    {
+      "decimals": "18",
+      "id": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6",
+      "symbol": "CHESS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x42f6f551ae042cbe50c739158b4f0cac0edb9096",
+      "symbol": "NRV"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa7f552078dcc247c2684336020c03648500c6d9f",
+      "symbol": "EPS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x477bc8d23c634c154061869478bce96be6045d12",
+      "symbol": "SFUND"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8263cd1601fe73c066bf49cc09841f35348e3be0",
+      "symbol": "ALU"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+      "symbol": "SFP"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90",
+      "symbol": "WEX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+      "symbol": "TWT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
+      "symbol": "TRX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x1633b7157e7638c4d6593436111bf125ee74703f",
+      "symbol": "SPS"
+    },
+    {
+      "decimals": "17",
+      "id": "0x78650b139471520656b9e7aa7a5e9276814a38e9",
+      "symbol": "BTCST"
+    },
+    {
+      "decimals": "9",
+      "id": "0x2b3f34e9d4b127797ce6244ea341a83733ddd6e4",
+      "symbol": "FLOKI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+      "symbol": "IOTX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8595f9da7b868b1822194faed312235e43007b49",
+      "symbol": "BTT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x1bf7aedec439d6bfe38f8f9b20cf3dc99e3571c4",
+      "symbol": "TRONPAD"
+    },
+    {
+      "decimals": "18",
+      "id": "0xaef0d72a118ce24fee3cd1d43d383897d05b4e99",
+      "symbol": "WIN"
+    },
+    {
+      "decimals": "18",
+      "id": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+      "symbol": "AXS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x68e374f856bf25468d365e539b700b648bf94b67",
+      "symbol": "MIST"
+    },
+    {
+      "decimals": "6",
+      "id": "0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe",
+      "symbol": "CHR"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97",
+      "symbol": "BNX"
+    },
+    {
+      "decimals": "9",
+      "id": "0x0523215dcafbf4e4aa92117d13c6985a3bef27d7",
+      "symbol": "GMR"
+    },
+    {
+      "decimals": "18",
+      "id": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+      "symbol": "SUSHI"
+    },
+    {
+      "decimals": "18",
+      "id": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+      "symbol": "DPET"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9d173e6c594f479b4d47001f8e6a95a7adda42bc",
+      "symbol": "ZOON"
+    },
+    {
+      "decimals": "18",
+      "id": "0x04c747b40be4d535fc83d09939fb0f626f32800b",
+      "symbol": "ITAM"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe8176d414560cfe1bf82fd73b986823b89e4f545",
+      "symbol": "HERO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
+      "symbol": "DODO"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1",
+      "symbol": "FARA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8519ea49c997f50ceffa444d240fb655e89248aa",
+      "symbol": "RAMP"
+    },
+    {
+      "decimals": "18",
+      "id": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+      "symbol": "LINA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9573c88ae3e37508f87649f87c4dd5373c9f31e0",
+      "symbol": "MONI"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+      "symbol": "REEF"
+    },
+    {
+      "decimals": "18",
+      "id": "0xee9801669c6138e84bd50deb500827b776777d28",
+      "symbol": "O3"
+    },
+    {
+      "decimals": "18",
+      "id": "0x373e768f79c820aa441540d254dca6d045c6d25b",
+      "symbol": "DERC"
+    },
+    {
+      "decimals": "18",
+      "id": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+      "symbol": "SKILL"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd44fd09d74cd13838f137b590497595d6b3feea4",
+      "symbol": "ETERNAL"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+      "symbol": "INJ"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+      "symbol": "THG"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4c0415a6e340eccebff58131799c6c4127cc39fa",
+      "symbol": "XDOGE"
+    },
+    {
+      "decimals": "9",
+      "id": "0xc001bbe2b87079294c63ece98bdd0a88d761434e",
+      "symbol": "EGC"
+    },
+    {
+      "decimals": "4",
+      "id": "0xeca41281c24451168a37211f0bc2b8645af45092",
+      "symbol": "TPT"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "symbol": "ATA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x95a1199eba84ac5f19546519e287d43d2f0e1b41",
+      "symbol": "RABBIT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x1f546ad641b56b86fd9dceac473d1c7a357276b7",
+      "symbol": "PANTHER"
+    },
+    {
+      "decimals": "18",
+      "id": "0x03ff0ff224f904be3118461335064bb48df47938",
+      "symbol": "ONE"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa58950f05fea2277d2608748412bf9f802ea4901",
+      "symbol": "WSG"
+    },
+    {
+      "decimals": "18",
+      "id": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+      "symbol": "TUSD"
+    },
+    {
+      "decimals": "18",
+      "id": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
+      "symbol": "NFTB"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "symbol": "LTC"
+    },
+    {
+      "decimals": "18",
+      "id": "0x27ae27110350b98d564b9a3eed31baebc82d878d",
+      "symbol": "CUMMIES"
+    },
+    {
+      "decimals": "9",
+      "id": "0xba07eed3d09055d60caef2bdfca1c05792f2dfad",
+      "symbol": "MiniDOGE"
+    },
+    {
+      "decimals": "18",
+      "id": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
+      "symbol": "BSCS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7269d98af4aa705e0b1a5d8512fadb4d45817d5a",
+      "symbol": "SHI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+      "symbol": "HOTCROSS"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb3a6381070b1a15169dea646166ec0699fdaea79",
+      "symbol": "Gold"
+    },
+    {
+      "decimals": "9",
+      "id": "0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936",
+      "symbol": "CATGIRL"
+    },
+    {
+      "decimals": "9",
+      "id": "0xc7d43f2b51f44f09fbb8a691a0451e8ffcf36c0a",
+      "symbol": "RISE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x17b7163cf1dbd286e262ddc68b553d899b93f526",
+      "symbol": "QBT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x14c358b573a4ce45364a3dbd84bbb4dae87af034",
+      "symbol": "DND"
+    },
+    {
+      "decimals": "18",
+      "id": "0xca3f508b8e4dd382ee878a314789373d80a5190a",
+      "symbol": "BIFI"
+    },
+    {
+      "decimals": "9",
+      "id": "0x05f2df7b3d612a23fe12162a6c996447dce728a5",
+      "symbol": "YUMMY"
+    },
+    {
+      "decimals": "9",
+      "id": "0xa2a26349448ddafae34949a6cc2cecf78c0497ac",
+      "symbol": "TSC"
+    },
+    {
+      "decimals": "9",
+      "id": "0x1b239abe619e74232c827fbe5e49a4c072bd869d",
+      "symbol": "GYRO"
+    },
+    {
+      "decimals": "9",
+      "id": "0x02ff5065692783374947393723dba9599e59f591",
+      "symbol": "YOOSHI"
+    },
+    {
+      "decimals": "9",
+      "id": "0xab14952d2902343fde7c65d7dc095e5c8be86920",
+      "symbol": "GOMA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x1d229b958d5ddfca92146585a8711aecbe56f095",
+      "symbol": "Zoo"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc13b7a43223bb9bf4b69bd68ab20ca1b79d81c75",
+      "symbol": "JGN"
+    },
+    {
+      "decimals": "18",
+      "id": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+      "symbol": "MASK"
+    },
+    {
+      "decimals": "9",
+      "id": "0x7a565284572d03ec50c35396f7d6001252eb43b6",
+      "symbol": "DogeZilla"
+    },
+    {
+      "decimals": "18",
+      "id": "0x09a6c44c3947b69e2b45f4d51b67e6a39acfb506",
+      "symbol": "UNCX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x82c19905b036bf4e329740989dcf6ae441ae26c1",
+      "symbol": "CP"
+    },
+    {
+      "decimals": "18",
+      "id": "0xad86d0e9764ba90ddd68747d64bffbd79879a238",
+      "symbol": "PAID"
+    },
+    {
+      "decimals": "8",
+      "id": "0x6679eb24f59dfe111864aec72b443d1da666b360",
+      "symbol": "ARV"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0e8d5504bf54d9e44260f8d153ecd5412130cabb",
+      "symbol": "UNCL"
+    },
+    {
+      "decimals": "9",
+      "id": "0xc0366a104b429f0806bfa98d0008daa9555b2bed",
+      "symbol": "SMARS"
+    },
+    {
+      "decimals": "18",
+      "id": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "symbol": "BAND"
+    },
+    {
+      "decimals": "18",
+      "id": "0x07663837218a003e66310a01596af4bf4e44623d",
+      "symbol": "rUSD"
+    },
+    {
+      "decimals": "18",
+      "id": "0x50332bdca94673f33401776365b66cc4e81ac81d",
+      "symbol": "CCAR"
+    },
+    {
+      "decimals": "12",
+      "id": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+      "symbol": "ZIL"
+    },
+    {
+      "decimals": "9",
+      "id": "0x4a824ee819955a7d769e03fe36f9e0c3bd3aa60b",
+      "symbol": "KABOSU"
+    },
+    {
+      "decimals": "18",
+      "id": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+      "symbol": "FRONT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x3fcca8648651e5b974dd6d3e50f61567779772a8",
+      "symbol": "POTS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "symbol": "EOS"
+    },
+    {
+      "decimals": "9",
+      "id": "0x42069c0cf4da25420fc4c9d9001ba5af7846ccfd",
+      "symbol": "GUH"
+    },
+    {
+      "decimals": "9",
+      "id": "0xf7844cb890f4c339c497aeab599abdc3c874b67a",
+      "symbol": "NFTART"
+    },
+    {
+      "decimals": "18",
+      "id": "0xdb0170e2d0c1cc1b2e7a90313d9b9afa4f250289",
+      "symbol": "ADAPAD"
+    },
+    {
+      "decimals": "9",
+      "id": "0x5e90253fbae4dab78aa351f4e6fed08a64ab5590",
+      "symbol": "BONFIRE"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd9979e2479aea29751d31ae512a61297b98fbbf4",
+      "symbol": "TORII"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+      "symbol": "ATOM"
+    },
+    {
+      "decimals": "18",
+      "id": "0x843d4a358471547f51534e3e51fae91cb4dc3f28",
+      "symbol": "lowb"
+    },
+    {
+      "decimals": "9",
+      "id": "0xcf9f991b14620f5ad144eec11f9bc7bf08987622",
+      "symbol": "PORNROCKET"
+    },
+    {
+      "decimals": "9",
+      "id": "0x07af67b392b7a202fad8e0fbc64c34f33102165b",
+      "symbol": "AQUAGOAT"
+    },
+    {
+      "decimals": "18",
+      "id": "0xdb8d30b74bf098af214e862c90e647bbb1fcc58c",
+      "symbol": "BABYCAKE"
+    },
+    {
+      "decimals": "18",
+      "id": "0xab15b79880f11cffb58db25ec2bc39d28c4d80d2",
+      "symbol": "SMON"
+    },
+    {
+      "decimals": "8",
+      "id": "0xfcb520b47f5601031e0eb316f553a3641ff4b13c",
+      "symbol": "LIZ"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0a3a21356793b49154fd3bbe91cbc2a16c0457f5",
+      "symbol": "RFOX"
+    },
+    {
+      "decimals": "9",
+      "id": "0x0e3eaf83ea93abe756690c62c72284943b96a6bc",
+      "symbol": "HODL"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf16e81dce15b08f326220742020379b855b87df9",
+      "symbol": "ICE"
+    },
+    {
+      "decimals": "18",
+      "id": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+      "symbol": "BETA"
+    },
+    {
+      "decimals": "8",
+      "id": "0x118f073796821da3e9901061b05c0b36377b877e",
+      "symbol": "CATE"
+    },
+    {
+      "decimals": "9",
+      "id": "0xadcfc6bf853a0a8ad7f9ff4244140d10cf01363c",
+      "symbol": "TPAD"
+    },
+    {
+      "decimals": "18",
+      "id": "0x426c72701833fddbdfc06c944737c6031645c708",
+      "symbol": "FINA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5ca42204cdaa70d5c773946e69de942b85ca6706",
+      "symbol": "POSI"
+    },
+    {
+      "decimals": "9",
+      "id": "0x7c63f96feafacd84e75a594c00fac3693386fbf0",
+      "symbol": "ASS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8443f091997f06a61670b735ed92734f5628692f",
+      "symbol": "BEL"
+    },
+    {
+      "decimals": "18",
+      "id": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+      "symbol": "COMP"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5b1baec64af6dc54e6e04349315919129a6d3c23",
+      "symbol": "DXCT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x3fda9383a84c05ec8f7630fe10adf1fac13241cc",
+      "symbol": "DEGO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x11582ef4642b1e7f0a023804b497656e2663bc9b",
+      "symbol": "KCCPAD"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe56842ed550ff2794f010738554db45e60730371",
+      "symbol": "BIN"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5f84ce30dc3cf7909101c69086c50de191895883",
+      "symbol": "VRT"
+    },
+    {
+      "decimals": "9",
+      "id": "0x1162e2efce13f99ed259ffc24d99108aaa0ce935",
+      "symbol": "CLU"
+    },
+    {
+      "decimals": "18",
+      "id": "0x22168882276e5d5e1da694343b41dd7726eeb288",
+      "symbol": "WSB"
+    },
+    {
+      "decimals": "9",
+      "id": "0x2a9718deff471f3bb91fa0eceab14154f150a385",
+      "symbol": "ElonGate"
+    },
+    {
+      "decimals": "18",
+      "id": "0x87230146e138d3f296a9a77e497a2a83012e9bc5",
+      "symbol": "SQUID"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8b303d5bbfbbf46f1a4d9741e491e06986894e18",
+      "symbol": "WOOP"
+    },
+    {
+      "decimals": "18",
+      "id": "0xda360309c59cb8c434b28a91b823344a96444278",
+      "symbol": "MERL"
+    },
+    {
+      "decimals": "9",
+      "id": "0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
+      "symbol": "PIG"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d",
+      "symbol": "SWAMP"
+    },
+    {
+      "decimals": "18",
+      "id": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
+      "symbol": "PMON"
+    },
+    {
+      "decimals": "18",
+      "id": "0xed28a457a5a76596ac48d87c0f577020f6ea1c4c",
+      "symbol": "pBTC"
+    },
+    {
+      "decimals": "18",
+      "id": "0x565b72163f17849832a692a3c5928cc502f46d69",
+      "symbol": "HUNNY"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9a946c3cb16c08334b69ae249690c236ebd5583e",
+      "symbol": "xBLZD"
+    },
+    {
+      "decimals": "18",
+      "id": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc",
+      "symbol": "FEVR"
+    },
+    {
+      "decimals": "18",
+      "id": "0x6507458bb53aec6be863161641ec28739c41cc97",
+      "symbol": "FootballStars"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9001ee054f1692fef3a48330cb543b6fec6287eb",
+      "symbol": "STEEL"
+    },
+    {
+      "decimals": "18",
+      "id": "0x46880afc2e6fa41bbbe9787c082f7c23f795465e",
+      "symbol": "BMARS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9617857e191354dbea0b714d78bc59e57c411087",
+      "symbol": "LMT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x25a528af62e56512a19ce8c3cab427807c28cc19",
+      "symbol": "FORM"
+    },
+    {
+      "decimals": "18",
+      "id": "0x19263f2b4693da0991c4df046e4baa5386f5735e",
+      "symbol": "ZOO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x82a479264b36104be4fdb91618a59a4fc0f50650",
+      "symbol": "BIRB"
+    },
+    {
+      "decimals": "6",
+      "id": "0x1228fb5ef4c98cabd696ba1bd4819e050389d21a",
+      "symbol": "CARS"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe9c803f48dffe50180bd5b01dc04da939e3445fc",
+      "symbol": "VLX"
+    },
+    {
+      "decimals": "9",
+      "id": "0xc864019047b864b6ab609a968ae2725dfaee808a",
+      "symbol": "BIT"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+      "symbol": "LIT"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0",
+      "symbol": "VLXPAD"
+    },
+    {
+      "decimals": "18",
+      "id": "0x20d39a5130f799b95b55a930e5b7ebc589ea9ed8",
+      "symbol": "HE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x658a109c5900bc6d2357c87549b651670e5b0539",
+      "symbol": "FOR"
+    },
+    {
+      "decimals": "18",
+      "id": "0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c",
+      "symbol": "WARS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x89af13a10b32f1b2f8d1588f93027f69b6f4e27e",
+      "symbol": "GAFI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9899a98b222fcb2f3dbee7df45d943093a4ff9ff",
+      "symbol": "DFD"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb64e638e60d154b43f660a6bf8fd8a3b249a6a21",
+      "symbol": "WAULTx"
+    },
+    {
+      "decimals": "9",
+      "id": "0xe5d46cc0fd592804b36f9dc6d2ed7d4d149ebd6f",
+      "symbol": "SGO"
+    },
+    {
+      "decimals": "9",
+      "id": "0x7cce94c0b2c8ae7661f02544e62178377fe8cf92",
+      "symbol": "DaddyDoge"
+    },
+    {
+      "decimals": "18",
+      "id": "0x6ae9701b9c423f40d54556c9a443409d79ce170a",
+      "symbol": "POLC"
+    },
+    {
+      "decimals": "9",
+      "id": "0x0952ddffde60786497c7ced1f49b4a14cf527f76",
+      "symbol": "GHOSTFACE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x039cb485212f996a9dbb85a9a75d898f94d38da6",
+      "symbol": "DEXE"
+    },
+    {
+      "decimals": "9",
+      "id": "0x159802fbe16aa6a0863a56a18dd41afce546c93e",
+      "symbol": "Save"
+    },
+    {
+      "decimals": "9",
+      "id": "0x2cd1075682b0fccaadd0ca629e138e64015ba11c",
+      "symbol": "τBTC"
+    },
+    {
+      "decimals": "18",
+      "id": "0xedecfb4801c04f3eb394b89397c6aafa4adda15b",
+      "symbol": "PYRAM"
+    },
+    {
+      "decimals": "18",
+      "id": "0xbcf39f0edda668c58371e519af37ca705f2bfcbd",
+      "symbol": "pCWS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x85c128ee1feeb39a59490c720a9c563554b51d33",
+      "symbol": "KEY"
+    },
+    {
+      "decimals": "9",
+      "id": "0x33a3d962955a3862c8093d1273344719f03ca17c",
+      "symbol": "SPORE"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd7b729ef857aa773f47d37088a1181bb3fbf0099",
+      "symbol": "BOG"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe60eaf5a997dfae83739e035b005a33afdcc6df5",
+      "symbol": "DERI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x00e1656e45f18ec6747f5a8496fd39b50b38396d",
+      "symbol": "BCOIN"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "symbol": "WOO"
+    },
+    {
+      "decimals": "9",
+      "id": "0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f",
+      "symbol": "AMPL"
+    },
+    {
+      "decimals": "9",
+      "id": "0x3fd5b5746315e3f8d43a46b09c826a001ebb977d",
+      "symbol": "OXB"
+    },
+    {
+      "decimals": "18",
+      "id": "0x3c1748d647e6a56b37b66fcd2b5626d0461d3aa0",
+      "symbol": "DNXC"
+    },
+    {
+      "decimals": "18",
+      "id": "0x291083c8aedfc3cd0384494e1fcdcf2067d28d3e",
+      "symbol": "wDEFI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x2a17dc11a1828725cdb318e0036acf12727d27a2",
+      "symbol": "ARENA"
+    },
+    {
+      "decimals": "18",
+      "id": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
+      "symbol": "ELE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x758fb037a375f17c7e195cc634d77da4f554255b",
+      "symbol": "DVI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9133049fb1fddc110c92bf5b7df635abb70c89dc",
+      "symbol": "PINK"
+    },
+    {
+      "decimals": "18",
+      "id": "0x609d183fb91a0fce59550b62ab7d2c931b0bb1be",
+      "symbol": "PkMon"
+    },
+    {
+      "decimals": "18",
+      "id": "0xfa363022816abf82f18a9c2809dcd2bb393f6ac5",
+      "symbol": "HONEY"
+    },
+    {
+      "decimals": "18",
+      "id": "0x405cff4ce041d3235e8b1f7aaa4e458998a47363",
+      "symbol": "VALK"
+    },
+    {
+      "decimals": "8",
+      "id": "0x8d047f4f57a190c96c8b9704b39a1379e999d82b",
+      "symbol": "ECC"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5621b5a3f4a8008c4ccdd1b942b121c8b1944f1f",
+      "symbol": "XED"
+    },
+    {
+      "decimals": "18",
+      "id": "0x96058f8c3e16576d9bd68766f3836d9a33158f89",
+      "symbol": "BONDLY"
+    },
+    {
+      "decimals": "18",
+      "id": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8",
+      "symbol": "Helmet"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc10358f062663448a3489fc258139944534592ac",
+      "symbol": "BCMC"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe898edc43920f357a93083f1d4460437de6daec2",
+      "symbol": "TITAN"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb6adb74efb5801160ff749b1985fd3bd5000e938",
+      "symbol": "GZONE"
+    },
+    {
+      "decimals": "8",
+      "id": "0x8cd6e29d3686d24d3c2018cee54621ea0f89313b",
+      "symbol": "NULS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8717e80eff08f53a45b4a925009957e14860a8a8",
+      "symbol": "BHO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+      "symbol": "IDIA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7b65b489fe53fce1f6548db886c08ad73111ddd8",
+      "symbol": "IRON"
+    },
+    {
+      "decimals": "9",
+      "id": "0xe4fae3faa8300810c835970b9187c268f55d998f",
+      "symbol": "CATE"
+    },
+    {
+      "decimals": "9",
+      "id": "0x3ad9594151886ce8538c1ff615efa2385a8c3a88",
+      "symbol": "SAFEMARS"
+    },
+    {
+      "decimals": "9",
+      "id": "0xf9fe1e7a671b6123cf47cd3b5f80e9e068b9f077",
+      "symbol": "GME"
+    },
+    {
+      "decimals": "9",
+      "id": "0x1e446cbea52badeb614fbe4ab7610f737995fb44",
+      "symbol": "SAT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x44754455564474a89358b2c2265883df993b12f0",
+      "symbol": "ZEE"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa9d75cc3405f0450955050c520843f99aff8749d",
+      "symbol": "RENA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4c97c901b5147f8c1c7ce3c5cf3eb83b44f244fe",
+      "symbol": "MND"
+    },
+    {
+      "decimals": "18",
+      "id": "0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27",
+      "symbol": "ASTRO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5b6ef1f87d5cec1e8508ddb5de7e895869e7a4a3",
+      "symbol": "CROSS"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc3eae9b061aa0e1b9bd3436080dc57d2d63fedc1",
+      "symbol": "BEAR"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf3147987a00d35eecc10c731269003ca093740ca",
+      "symbol": "MAT"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc49dde62b4a0810074721faca54aab52369f486a",
+      "symbol": "PKR"
+    },
+    {
+      "decimals": "9",
+      "id": "0x0b3f42481c228f70756dbfa0309d3ddc2a5e0f6a",
+      "symbol": "ULTRA"
+    },
+    {
+      "decimals": "9",
+      "id": "0xd024ac1195762f6f13f8cfdf3cdd2c97b33b248b",
+      "symbol": "MiniFootball"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4ba0057f784858a48fe351445c672ff2a3d43515",
+      "symbol": "KALM"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7ffc1243232da3ac001994208e2002816b57c669",
+      "symbol": "ZOO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7e624fa0e1c4abfd309cc15719b7e2580887f570",
+      "symbol": "POLS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x076ddce096c93dcf5d51fe346062bf0ba9523493",
+      "symbol": "PARA"
+    },
+    {
+      "decimals": "8",
+      "id": "0xbbf33a3c83cf86d0965a66e108669d272dfe4214",
+      "symbol": "EiFI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x545f90dc35ca1e6129f1fed354b3e2df12034261",
+      "symbol": "NEWB"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+      "symbol": "FIL"
+    },
+    {
+      "decimals": "9",
+      "id": "0xdb238123939637d65a03e4b2b485650b4f9d91cb",
+      "symbol": "TASTE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x727b531038198e27a1a4d0fd83e1693c1da94892",
+      "symbol": "BFC"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70",
+      "symbol": "DogeDash"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+      "symbol": "BAKE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x74926b3d118a63f6958922d3dc05eb9c6e6e00c6",
+      "symbol": "DOGGY"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9aa6fc71aed1130dee06a91a487bf5ea481de80d",
+      "symbol": "COCO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9b76d1b12ff738c113200eb043350022ebf12ff0",
+      "symbol": "TIKI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+      "symbol": "REALM"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0f9e4d49f25de22c2202af916b681fbb3790497b",
+      "symbol": "PERL"
+    },
+    {
+      "decimals": "18",
+      "id": "0x524df384bffb18c0c8f3f43d012011f8f9795579",
+      "symbol": "YAY"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8a5d7fcd4c90421d21d30fcc4435948ac3618b2f",
+      "symbol": "MONSTA"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa6c897caaca3db7fd6e2d2ce1a00744f40ab87bb",
+      "symbol": "DRACE"
+    },
+    {
+      "decimals": "9",
+      "id": "0xaecf6d1aff214fef70042740054f0f6d0caa98ab",
+      "symbol": "BabyShibaInu"
+    },
+    {
+      "decimals": "8",
+      "id": "0xf6cb4ad242bab681effc5de40f7c8ff921a12d63",
+      "symbol": "CNS"
+    },
+    {
+      "decimals": "4",
+      "id": "0x5de3939b2f811a61d830e6f52d13b066881412ab",
+      "symbol": "XPR"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+      "symbol": "AUTO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x088bebef4e371757509e64d3508b6da6f376e2ac",
+      "symbol": "DBall"
+    },
+    {
+      "decimals": "7",
+      "id": "0x679d5b2d94f454c950d683d159b87aa8eae37c9e",
+      "symbol": "HAM"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb09fe1613fe03e7361319d2a43edc17422f36b09",
+      "symbol": "BOG"
+    },
+    {
+      "decimals": "18",
+      "id": "0x16153214e683018d5aa318864c8e692b66e16778",
+      "symbol": "PWAR"
+    },
+    {
+      "decimals": "18",
+      "id": "0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd",
+      "symbol": "LTO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+      "symbol": "REVO"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc53708664b99df348dd27c3ac0759d2da9c40462",
+      "symbol": "GUM"
+    },
+    {
+      "decimals": "8",
+      "id": "0xb27adaffb9fea1801459a1a81b17218288c097cc",
+      "symbol": "POOCOIN"
+    },
+    {
+      "decimals": "5",
+      "id": "0x66109633715d2110dda791e64a7b2afadb517abb",
+      "symbol": "GAME"
+    },
+    {
+      "decimals": "9",
+      "id": "0x5546600f77eda1dcf2e8817ef4d617382e7f71f5",
+      "symbol": "PING"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe4c797d43631f4d660ec67b5cb0b78ef5c902532",
+      "symbol": "MONS"
+    },
+    {
+      "decimals": "18",
+      "id": "0xacb2d47827c9813ae26de80965845d80935afd0b",
+      "symbol": "MCRN"
+    },
+    {
+      "decimals": "9",
+      "id": "0xd2618bc9c9cdc40ff19e200a7d14a09799c0a152",
+      "symbol": "UDOGE"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf859bf77cbe8699013d6dbc7c2b926aaf307f830",
+      "symbol": "BRY"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa4d872235dde5694af92a1d0df20d723e8e9e5fc",
+      "symbol": "GNBU"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
+      "symbol": "1ART"
+    },
+    {
+      "decimals": "18",
+      "id": "0x67d66e8ec1fd25d98b3ccd3b19b7dc4b4b7fc493",
+      "symbol": "FEED"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4518231a8fdf6ac553b9bbd51bbb86825b583263",
+      "symbol": "MLT"
+    },
+    {
+      "decimals": "0",
+      "id": "0xb2aa453b56b495cb95bc9fa72e7706b84e41ee54",
+      "symbol": "unknown"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4bc6e19ee0f1e034a927990c76b418c2a95e326f",
+      "symbol": "SEED"
+    },
+    {
+      "decimals": "18",
+      "id": "0x09607078980cbb0665aba9c6d1b84b8ead246aa0",
+      "symbol": "PETG"
+    },
+    {
+      "decimals": "9",
+      "id": "0x19b60612f9a93359bca835a788a334d4157e675b",
+      "symbol": "PAWG"
+    },
+    {
+      "decimals": "18",
+      "id": "0x1613957159e9b0ac6c80e824f7eea748a32a0ae2",
+      "symbol": "CGG"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5f20559235479f5b6abb40dfc6f55185b74e7b55",
+      "symbol": "NBU"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5e0b09b04d6990e76dfe9bf84552a940fd0be05e",
+      "symbol": "REX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x6652462466dcee5cb1dda95379fae3c3e57f6719",
+      "symbol": "Key"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
+      "symbol": "MOOV"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb6c53431608e626ac81a9776ac3e999c5556717c",
+      "symbol": "TLOS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x810ee35443639348adbbc467b33310d2ab43c168",
+      "symbol": "CYC"
+    },
+    {
+      "decimals": "9",
+      "id": "0xebc76079da0c245fae7225b58a57a54809b40618",
+      "symbol": "BPAY"
+    },
+    {
+      "decimals": "9",
+      "id": "0x8fff93e810a2edaafc326edee51071da9d398e83",
+      "symbol": "BRISE"
+    },
+    {
+      "decimals": "9",
+      "id": "0x1997830b5beb723f5089bb8fc38766d419a0444d",
+      "symbol": "NEWINU"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
+      "symbol": "KMON"
+    },
+    {
+      "decimals": "18",
+      "id": "0xbd29490383edfd560426c3b63d01534408bc2da6",
+      "symbol": "AVXL"
+    },
+    {
+      "decimals": "9",
+      "id": "0xb6090a50f66046e3c6afb9311846a6432e45060a",
+      "symbol": "PinkM"
+    },
+    {
+      "decimals": "9",
+      "id": "0x83a86adf1a7c56e77d36d585b808052e0a2aad0e",
+      "symbol": "SYA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
+      "symbol": "ARPA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "symbol": "YFI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x34ea3f7162e6f6ed16bd171267ec180fd5c848da",
+      "symbol": "DND"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0112e557d400474717056c4e6d40edd846f38351",
+      "symbol": "PHA"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd15c444f1199ae72795eba15e8c1db44e47abf62",
+      "symbol": "TENFI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x14ace3d3429408bfa8562099a253172913ad71bd",
+      "symbol": "DCH"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe6ffa2e574a8bbeb5243d2109b6b11d4a459f88b",
+      "symbol": "HIP"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4a080377f83d669d7bb83b3184a8a5e61b500608",
+      "symbol": "XEND"
+    },
+    {
+      "decimals": "9",
+      "id": "0x7065dda3f8ec5f6c155648bdee4420c0525d93c6",
+      "symbol": "TAO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9f882567a62a5560d147d64871776eea72df41d3",
+      "symbol": "MX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014",
+      "symbol": "GEMG"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0391be54e72f7e001f6bbc331777710b4f2999ef",
+      "symbol": "TRAVA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x02a40c048ee2607b5f5606e445cfc3633fb20b58",
+      "symbol": "KABY"
+    },
+    {
+      "decimals": "18",
+      "id": "0xdf0816cc717216c8b0863af8d4f0fc20bc65d643",
+      "symbol": "SHIBSC"
+    },
+    {
+      "decimals": "18",
+      "id": "0xfafd4cb703b25cb22f43d017e7e0d75febc26743",
+      "symbol": "WEYU"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442",
+      "symbol": "ETHPAD"
+    },
+    {
+      "decimals": "9",
+      "id": "0x23125108bc4c63e4677b2e253fa498ccb4b3298b",
+      "symbol": "DOGECOIN"
+    },
+    {
+      "decimals": "8",
+      "id": "0xe1d1f66215998786110ba0102ef558b22224c016",
+      "symbol": "HOO"
+    },
+    {
+      "decimals": "9",
+      "id": "0xfa344c08c93066a4d6266063c6ebc63925a18467",
+      "symbol": "SAFEBULL"
+    },
+    {
+      "decimals": "2",
+      "id": "0xa38898a4ae982cb0131104a6746f77fa0da57aaa",
+      "symbol": "QBIT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x768d221e81524de52841aed976370b2e4f990416",
+      "symbol": "MMP"
+    },
+    {
+      "decimals": "9",
+      "id": "0x4afc8c2be6a0783ea16e16066fde140d15979296",
+      "symbol": "HARE"
+    },
+    {
+      "decimals": "9",
+      "id": "0xc8e8ecb2a5b5d1ecff007bf74d15a86434aa0c5c",
+      "symbol": "DRS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8e7788ee2b1d3e5451e182035d6b2b566c2fe997",
+      "symbol": "ZOO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0df1b3f30865c5b324797f8db9d339514cac4e94",
+      "symbol": "BETU"
+    },
+    {
+      "decimals": "9",
+      "id": "0xf40153fb3f5db22f6843fc63835a3a870ed846d3",
+      "symbol": "SAFEPLUTO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7762a14082ab475c06d3868b385e46ae27017231",
+      "symbol": "PRV"
+    },
+    {
+      "decimals": "18",
+      "id": "0xfbe0b4ae6e5a200c36a341299604d5f71a5f0a48",
+      "symbol": "ZIN"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7ddee176f665cd201f93eede625770e2fd911990",
+      "symbol": "GALA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x51f35073ff7cf54c9e86b7042e59a8cc9709fc46",
+      "symbol": "ETNA"
+    },
+    {
+      "decimals": "18",
+      "id": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+      "symbol": "EGLD"
+    },
+    {
+      "decimals": "9",
+      "id": "0x041640ea980e3fe61e9c4ca26d9007bc70094c15",
+      "symbol": "PirateCoin☠"
+    },
+    {
+      "decimals": "9",
+      "id": "0xa656f993bd14b2b59a28d1e610476ad18849b107",
+      "symbol": "SAFERMOON"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf483af09917ba63f1e274056978036d266eb56e6",
+      "symbol": "BULL"
+    },
+    {
+      "decimals": "18",
+      "id": "0x1446f3cedf4d86a9399e49f7937766e6de2a3aab",
+      "symbol": "KRW"
+    },
+    {
+      "decimals": "18",
+      "id": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
+      "symbol": "AIOZ"
+    },
+    {
+      "decimals": "8",
+      "id": "0xf3edd4f14a018df4b6f02bf1b2cf17a8120519a2",
+      "symbol": "PWT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7a983559e130723b70e45bd637773dbdfd3f71db",
+      "symbol": "DBZ"
+    },
+    {
+      "decimals": "9",
+      "id": "0x375483cfa7fc18f6b455e005d835a8335fbdbb1f",
+      "symbol": "ECP"
+    },
+    {
+      "decimals": "18",
+      "id": "0xfe1d7f7a8f0bda6e415593a2e4f82c64b446d404",
+      "symbol": "BLP"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4a3524936db5c310d852266033589d3f6f30ba5d",
+      "symbol": "JAGUAR"
+    },
+    {
+      "decimals": "18",
+      "id": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+      "symbol": "MARSH"
+    },
+    {
+      "decimals": "18",
+      "id": "0x3051cfb958dcd408fba70256073adba943fdf552",
+      "symbol": "FOC"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9a319b959e33369c5eaa494a770117ee3e585318",
+      "symbol": "HYFI"
+    },
+    {
+      "decimals": "6",
+      "id": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929",
+      "symbol": "CTK"
+    },
+    {
+      "decimals": "18",
+      "id": "0xcd40f2670cf58720b694968698a5514e924f742d",
+      "symbol": "ODDZ"
+    },
+    {
+      "decimals": "18",
+      "id": "0xfd053f9a52d2d74aae83c28323cc7d2e2fefb263",
+      "symbol": "TORII"
+    },
+    {
+      "decimals": "18",
+      "id": "0x854086dc841e1bfae50cb615bf41f55bf432a90b",
+      "symbol": "GARUDA"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+      "symbol": "MATH"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa77346760341460b42c230ca6d21d4c8e743fa9c",
+      "symbol": "PETS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x045c4324039da91c52c55df5d785385aab073dcf",
+      "symbol": "bCFX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x162c2332e92be409254ac7c59ad559c16a3f506e",
+      "symbol": "DNFT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d",
+      "symbol": "ACT"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa67a13c9283da5aabb199da54a9cb4cd8b9b16ba",
+      "symbol": "NBL"
+    },
+    {
+      "decimals": "18",
+      "id": "0xced0ce92f4bdc3c2201e255faf12f05cf8206da8",
+      "symbol": "ORK"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf4b5470523ccd314c6b9da041076e7d79e0df267",
+      "symbol": "BBANK"
+    },
+    {
+      "decimals": "18",
+      "id": "0x934c9198582bf2631128c5d4b051aacef9a6224f",
+      "symbol": "WAI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x129e6d84c6cab9b0c2f37ad1d14a9fe2e59dab09",
+      "symbol": "FRANK"
+    },
+    {
+      "decimals": "9",
+      "id": "0x5067c6e9e6c443372f2e62946273abbf3cc2f2b3",
+      "symbol": "FIBO"
+    },
+    {
+      "decimals": "9",
+      "id": "0x3dab450ee6451762e72647a05a205dd5697c5c2c",
+      "symbol": "FSHIB"
+    },
+    {
+      "decimals": "6",
+      "id": "0x63870a18b6e42b01ef1ad8a2302ef50b7132054f",
+      "symbol": "blink"
+    },
+    {
+      "decimals": "18",
+      "id": "0x37dfacfaeda801437ff648a1559d73f4c40aacb7",
+      "symbol": "APYS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0e7beec376099429b85639eb3abe7cf22694ed49",
+      "symbol": "BUNI"
+    },
+    {
+      "decimals": "9",
+      "id": "0xf017e2773e4ee0590c81d79ccbcf1b2de1d22877",
+      "symbol": "SAFEMOONCASH"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7754c0584372d29510c019136220f91e25a8f706",
+      "symbol": "FNDZ"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7fa7df4996ac59f398476892cfb195ed38543520",
+      "symbol": "WAG"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe8c93310af068aa50bd7bf0ebfa459df2a02ceba",
+      "symbol": "MOON"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb38b3c34e4bb6144c1e5283af720e046ee833a2a",
+      "symbol": "DES"
+    },
+    {
+      "decimals": "9",
+      "id": "0x68590a47578e5060a29fd99654f4556dbfa05d10",
+      "symbol": "SMRAT"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+      "symbol": "IF"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb60501346240fcde1615de56ea9fff1ac1da5673",
+      "symbol": "BSL"
+    },
+    {
+      "decimals": "8",
+      "id": "0x6bfd576220e8444ca4cc5f89efbd7f02a4c94c16",
+      "symbol": "SMG"
+    },
+    {
+      "decimals": "18",
+      "id": "0xcfb24d3c3767364391340a2e6d99c64f1cbd7a3d",
+      "symbol": "LPOOL"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+      "symbol": "HIGH"
+    },
+    {
+      "decimals": "18",
+      "id": "0x20e90ec60ef7ae33ac04a48d5f45df9a15e76a01",
+      "symbol": "POK"
+    },
+    {
+      "decimals": "0",
+      "id": "0xbbcf57177d8752b21d080bf30a06ce20ad6333f8",
+      "symbol": "unknown"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8203612382f61bafae549fbf31efbf70992fa289",
+      "symbol": "ShibaPup"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe2e7329499e8ddb1f2b04ee4b35a8d7f6881e4ea",
+      "symbol": "$ANRX"
+    },
+    {
+      "decimals": "18",
+      "id": "0xbceee918077f63fb1b9e10403f59ca40c7061341",
+      "symbol": "PAPADOGE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x72b7d61e8fc8cf971960dd9cfa59b8c829d91991",
+      "symbol": "AQUA"
+    },
+    {
+      "decimals": "0",
+      "id": "0x6397de0f9aedc0f7a8fa8b438dde883b9c201010",
+      "symbol": "unknown"
+    },
+    {
+      "decimals": "18",
+      "id": "0x89671544190ee39e469c8393009875df6565457a",
+      "symbol": "GRIMEX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x2daf1a83aa348afbcbc73f63bb5ee3154d9f5776",
+      "symbol": "LORD"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd64f7b8962ede286ac66e290b5d3e5f8f4e019fb",
+      "symbol": "ME"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf750a26eb0acf95556e8529e72ed530f3b60f348",
+      "symbol": "GNT"
+    },
+    {
+      "decimals": "8",
+      "id": "0x4206931337dc273a630d328da6441786bfad668f",
+      "symbol": "DOGE"
+    },
+    {
+      "decimals": "8",
+      "id": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+      "symbol": "PEAK"
+    },
+    {
+      "decimals": "9",
+      "id": "0x1337ace33c2b3fc17d85f33dbd0ed73a896148b5",
+      "symbol": "GRV"
+    },
+    {
+      "decimals": "18",
+      "id": "0x450dcf93160a30be156a4600802c91bf64dffd2e",
+      "symbol": "CORGI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x394bba8f309f3462b31238b3fd04b83f71a98848",
+      "symbol": "POCO"
+    },
+    {
+      "decimals": "9",
+      "id": "0x17d749d3e2ac204a07e19d8096d9a05c423ea3af",
+      "symbol": "LTRBT"
+    },
+    {
+      "decimals": "18",
+      "id": "0xcfbb1bfa710cb2eba070cc3bec0c35226fea4baf",
+      "symbol": "HEROEGG"
+    },
+    {
+      "decimals": "18",
+      "id": "0x12e34cdf6a031a10fe241864c32fb03a4fdad739",
+      "symbol": "FREE"
+    },
+    {
+      "decimals": "8",
+      "id": "0xe550a593d09fbc8dcd557b5c88cea6946a8b404a",
+      "symbol": "τDOGE"
+    },
+    {
+      "decimals": "8",
+      "id": "0xd48474e7444727bf500a32d5abe01943f3a59a64",
+      "symbol": "BBT"
+    },
+    {
+      "decimals": "9",
+      "id": "0x7ee7f14427cc41d6db17829eb57dc74a26796b9d",
+      "symbol": "MOONRISE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x431e0cd023a32532bf3969cddfc002c00e98429d",
+      "symbol": "XCAD"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd8a2ae43fd061d24acd538e3866ffc2c05151b53",
+      "symbol": "AIR"
+    },
+    {
+      "decimals": "0",
+      "id": "0x04260673729c5f2b9894a467736f3d85f8d34fc8",
+      "symbol": "unknown"
+    },
+    {
+      "decimals": "18",
+      "id": "0x368ce786ea190f32439074e8d22e12ecb718b44c",
+      "symbol": "EPIK"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa4838122c683f732289805fc3c207febd55babdd",
+      "symbol": "TRIAS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x6b23c89196deb721e6fd9726e6c76e4810a464bc",
+      "symbol": "XWG"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe3894cb9e92ca78524fb6a30ff072fa5e533c162",
+      "symbol": "ELP"
+    },
+    {
+      "decimals": "18",
+      "id": "0xfac3a1ed2480da8f5c34576c0da13f245239717d",
+      "symbol": "FAN"
+    },
+    {
+      "decimals": "18",
+      "id": "0x872d068c25511be88c1f5990c53eeffcdf46c9b4",
+      "symbol": "VENT"
+    },
+    {
+      "decimals": "9",
+      "id": "0xab844d316b5a5093b7e7edde11cc08becca36d1c",
+      "symbol": "ANUBI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5a726a26edb0df8fd55f03cc30af8a7cea81e78d",
+      "symbol": "CWT"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c",
+      "symbol": "DUSK"
+    },
+    {
+      "decimals": "18",
+      "id": "0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed",
+      "symbol": "RAINI"
+    },
+    {
+      "decimals": "9",
+      "id": "0x673da443da2f6ae7c5c660a9f0d3dd24d1643d36",
+      "symbol": "RAINBOW"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0255af6c9f86f6b0543357bacefa262a2664f80f",
+      "symbol": "DARA"
+    },
+    {
+      "decimals": "9",
+      "id": "0x0e5f989ce525acc4ee45506af91964f7f4c9f2e9",
+      "symbol": "RYOSHI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x89f2a5463ef4e4176e57eef2b2fdd256bf4bc2bd",
+      "symbol": "CIFI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x758d08864fb6cce3062667225ca10b8f00496cc2",
+      "symbol": "NAOS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x71de20e0c4616e7fcbfdd3f875d568492cbe4739",
+      "symbol": "SWINGBY"
+    },
+    {
+      "decimals": "9",
+      "id": "0xc30f12cd65f61ded24db6c415c84f999c9704ebc",
+      "symbol": "SABAKA INU"
+    },
+    {
+      "decimals": "18",
+      "id": "0x6a6ccf15b38da4b5b0ef4c8fe9fefcb472a893f9",
+      "symbol": "MNST"
+    },
+    {
+      "decimals": "18",
+      "id": "0xa123ab52a32267dc357b7599739d3c6caf856fe4",
+      "symbol": "AIR"
+    },
+    {
+      "decimals": "9",
+      "id": "0x9130990dd16ed8be8be63e46cad305c2c339dac9",
+      "symbol": "MEDA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x3b831d36ed418e893f42d46ff308c326c239429f",
+      "symbol": "Tcake"
+    },
+    {
+      "decimals": "3",
+      "id": "0xe9d7023f2132d55cbd4ee1f78273cb7a3e74f10a",
+      "symbol": "DEC"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc5e6689c9c8b02be7c49912ef19e79cf24977f03",
+      "symbol": "ALPA"
+    },
+    {
+      "decimals": "9",
+      "id": "0x683fae4411249ca05243dfb919c20920f3f5bfe0",
+      "symbol": "GHC"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9",
+      "symbol": "MIR"
+    },
+    {
+      "decimals": "9",
+      "id": "0x2c80bc9bfa4ec680efb949c51806bddee5ac8299",
+      "symbol": "BARMY"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd522a1dce1ca4b138dda042a78672307eb124cc2",
+      "symbol": "SWAPZ"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf2c96e402c9199682d5ded26d3771c6b192c01af",
+      "symbol": "SCLP"
+    },
+    {
+      "decimals": "9",
+      "id": "0x9abdba20edfba06b782126b4d8d72a5853918fd0",
+      "symbol": "TABOO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819",
+      "symbol": "ADX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x96dd399f9c3afda1f194182f71600f1b65946501",
+      "symbol": "COS"
+    },
+    {
+      "decimals": "18",
+      "id": "0x41515885251e724233c6ca94530d6dcf3a20dec7",
+      "symbol": "BSC-HO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5d0158a5c3ddf47d4ea4517d8db0d76aa2e87563",
+      "symbol": "BONDLY"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5ac52ee5b2a633895292ff6d8a89bb9190451587",
+      "symbol": "BSCX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x19a4866a85c652eb4a2ed44c42e4cb2863a62d51",
+      "symbol": "HOD"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0ccd575bf9378c06f6dca82f8122f570769f00c2",
+      "symbol": "KING"
+    },
+    {
+      "decimals": "18",
+      "id": "0x99dab6065951becac1decbac0c1a16b9bbf12913",
+      "symbol": "GEG"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9853a30c69474bed37595f9b149ad634b5c323d9",
+      "symbol": "TENDIE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+      "symbol": "MCB"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc0eff7749b125444953ef89682201fb8c6a917cd",
+      "symbol": "HZN"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd4099a517f2fbe8a730d2ecaad1d0824b75e084a",
+      "symbol": "MONO"
+    },
+    {
+      "decimals": "18",
+      "id": "0x2f619a1270226fd8ed3df82f0c1e0cd90804346d",
+      "symbol": "MELODY"
+    },
+    {
+      "decimals": "18",
+      "id": "0xde8ed8c9480ea12d050182aa99630b235de30f83",
+      "symbol": "PLUM"
+    },
+    {
+      "decimals": "18",
+      "id": "0x330f4fe5ef44b4d0742fe8bed8ca5e29359870df",
+      "symbol": "JADE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x3d0e22387ddfe75d1aea9d7108a4392922740b96",
+      "symbol": "LOUD"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe29ac6ea53dea5211155f9d7c8c41beee852efa0",
+      "symbol": "POLX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x0bc89aa98ad94e6798ec822d0814d934ccd0c0ce",
+      "symbol": "BATH"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb42e1c3902b85b410334f5fff79cdc51fbee6950",
+      "symbol": "GSPI"
+    },
+    {
+      "decimals": "18",
+      "id": "0xab287e6d370c61f105630e656b5468acb4d00423",
+      "symbol": "BSR"
+    },
+    {
+      "decimals": "9",
+      "id": "0xa78628ecba2bf5fedf3fe27a7cedaa363b46708f",
+      "symbol": "LBR"
+    },
+    {
+      "decimals": "9",
+      "id": "0xe49bfc53a195a62d78a941a1967d7b0f83a47c14",
+      "symbol": "TAC"
+    },
+    {
+      "decimals": "18",
+      "id": "0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
+      "symbol": "QANX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4131b87f74415190425ccd873048c708f8005823",
+      "symbol": "bMXX"
+    },
+    {
+      "decimals": "18",
+      "id": "0x118b60763002f3ba7603a3c17f946a0c7dab789f",
+      "symbol": "PEARL"
+    },
+    {
+      "decimals": "18",
+      "id": "0x32089eaffaf278c82cda2c8d37e7b6b6fabbaaf2",
+      "symbol": "SLF"
+    },
+    {
+      "decimals": "0",
+      "id": "0x6169b3b23e57de79a6146a2170980ceb1f83b9e0",
+      "symbol": "unknown"
+    },
+    {
+      "decimals": "18",
+      "id": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+      "symbol": "SHIB"
+    },
+    {
+      "decimals": "18",
+      "id": "0xbb53fcab7a3616c5be33b9c0af612f0462b01734",
+      "symbol": "SBF"
+    },
+    {
+      "decimals": "9",
+      "id": "0xcd2ecd5e06b1a330789b30e8ada3d11c51503a71",
+      "symbol": "PIGGY"
+    },
+    {
+      "decimals": "9",
+      "id": "0x293c3ee9abacb08bb8ced107987f00efd1539288",
+      "symbol": "EMPIRE"
+    },
+    {
+      "decimals": "9",
+      "id": "0xa016f295a5957cb80d03d8e5464a429007555124",
+      "symbol": "SAFEHAMSTERS"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc7b7844494c516b840a7a4575ff3e60ff0f056a9",
+      "symbol": "MECH"
+    },
+    {
+      "decimals": "4",
+      "id": "0x97ea5efdcb5961a99ba5c96123042507c0210ec1",
+      "symbol": "FLOKIN"
+    },
+    {
+      "decimals": "8",
+      "id": "0x658e64ffcf40d240a43d52ca9342140316ae44fa",
+      "symbol": "OIN"
+    },
+    {
+      "decimals": "18",
+      "id": "0x08c975868e547bfe5f76db7d1e075680e9736034",
+      "symbol": "DOGEBACK"
+    },
+    {
+      "decimals": "9",
+      "id": "0xa53e61578ff54f1ad70186be99332a6e20b6ffa9",
+      "symbol": "GDOGE"
+    },
+    {
+      "decimals": "9",
+      "id": "0xaee234825dc4687fae606485c1ebd06336052bcc",
+      "symbol": "Duke"
+    },
+    {
+      "decimals": "9",
+      "id": "0x26a5dfab467d4f58fb266648cae769503cec9580",
+      "symbol": "xMARK"
+    },
+    {
+      "decimals": "18",
+      "id": "0x86b3f23b6e90f5bbfac59b5b2661134ef8ffd255",
+      "symbol": "DON"
+    },
+    {
+      "decimals": "18",
+      "id": "0xfa139cc2f5c5b8c72309be8e63c3024d03b7e63c",
+      "symbol": "GNP"
+    },
+    {
+      "decimals": "18",
+      "id": "0xc43570263e924c8cf721f4b9c72eed1aec4eb7df",
+      "symbol": "LNCHX"
+    },
+    {
+      "decimals": "9",
+      "id": "0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50",
+      "symbol": "PIT"
+    },
+    {
+      "decimals": "9",
+      "id": "0x330540a9d998442dcbc396165d3ddc5052077bb1",
+      "symbol": "FLOKI"
+    },
+    {
+      "decimals": "18",
+      "id": "0x580de58c1bd593a43dadcf0a739d504621817c05",
+      "symbol": "THOREUM"
+    },
+    {
+      "decimals": "18",
+      "id": "0x4cfbbdfbd5bf0814472ff35c72717bd095ada055",
+      "symbol": "Suter"
+    },
+    {
+      "decimals": "8",
+      "id": "0x2c8368f8f474ed9af49b87eac77061beb986c2f1",
+      "symbol": "LEOS"
+    },
+    {
+      "decimals": "18",
+      "id": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
+      "symbol": "NFTL"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf7b5fb4607abfe0ecf332c23cbdcc9e425b443a8",
+      "symbol": "ACK"
+    },
+    {
+      "decimals": "18",
+      "id": "0xb26d2d67c7652f361b73552310da5753041b3867",
+      "symbol": "BPET"
+    },
+    {
+      "decimals": "18",
+      "id": "0xdedf440ad8bf07729ead58f4ff52edab20d2628d",
+      "symbol": "NEKO"
+    },
+    {
+      "decimals": "9",
+      "id": "0xa1a0c7849e6916945a78f8af843738c051ab15f3",
+      "symbol": "MetaMoon"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8cef274596d334ffa10f8976a920ddc81ba6e29b",
+      "symbol": "GROW"
+    },
+    {
+      "decimals": "6",
+      "id": "0x1fc9004ec7e5722891f5f38bae7678efcb11d34d",
+      "symbol": "NFT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x735ebe3ed47877a11023b904054a0ffe44e91ab7",
+      "symbol": "LAS"
+    },
+    {
+      "decimals": "3",
+      "id": "0xbe2a26889ce30a1515055a192797083b1fde8844",
+      "symbol": "STRIKE"
+    },
+    {
+      "decimals": "18",
+      "id": "0xdce6380b9d2d8beac66b0fba2604c51519d24d77",
+      "symbol": "ADAT"
+    },
+    {
+      "decimals": "18",
+      "id": "0xbf05279f9bf1ce69bbfed670813b7e431142afa4",
+      "symbol": "MM"
+    },
+    {
+      "decimals": "18",
+      "id": "0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2",
+      "symbol": "DFY"
+    },
+    {
+      "decimals": "18",
+      "id": "0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0",
+      "symbol": "WATCH"
+    },
+    {
+      "decimals": "18",
+      "id": "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454",
+      "symbol": "BDO"
+    },
+    {
+      "decimals": "9",
+      "id": "0x587c16b84c64751760f6e3e7e32f896634704352",
+      "symbol": "WHALE"
+    },
+    {
+      "decimals": "18",
+      "id": "0x232fb065d9d24c34708eedbf03724f2e95abe768",
+      "symbol": "SHEESHA"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8aa688ab789d1848d131c65d98ceaa8875d97ef1",
+      "symbol": "MTV"
+    },
+    {
+      "decimals": "18",
+      "id": "0xde097feb7ecc559bf71375ca9c4ab2ea1e3c58bb",
+      "symbol": "KGS"
+    },
+    {
+      "decimals": "18",
+      "id": "0xcb2b25e783a414f0d20a65afa741c51b1ad84c49",
+      "symbol": "SRP"
+    },
+    {
+      "decimals": "18",
+      "id": "0x42712df5009c20fee340b245b510c0395896cf6e",
+      "symbol": "DFT"
+    },
+    {
+      "decimals": "18",
+      "id": "0x651cd665bd558175a956fb3d72206ea08eb3df5b",
+      "symbol": "ROSN"
+    },
+    {
+      "decimals": "9",
+      "id": "0x163f182c32d24a09d91eb75820cde9fd5832b329",
+      "symbol": "EDOGE"
+    },
+    {
+      "decimals": "9",
+      "id": "0xcc10c8afd683c5aa86b1d170d75b555bce5a2c37",
+      "symbol": "Xpose"
+    },
+    {
+      "decimals": "18",
+      "id": "0xaf6bd11a6f8f9c44b9d18f5fa116e403db599f8e",
+      "symbol": "ALIX"
+    },
+    {
+      "decimals": "9",
+      "id": "0x3916984fa787d89b648ccd8d60b5ff07e0e8e4f4",
+      "symbol": "PUBE"
+    },
+    {
+      "decimals": "9",
+      "id": "0x3279510e89600ee1767a037dbd0ad49c974063ae",
+      "symbol": "NFTBS"
+    },
+    {
+      "decimals": "0",
+      "id": "0xc72cc401122dbdc812ec88a2150aad5a39467401",
+      "symbol": "WSWAP"
+    },
+    {
+      "decimals": "9",
+      "id": "0x67e8954493dcf031243a3498da73c167eda512d4",
+      "symbol": "GLXM"
+    },
+    {
+      "decimals": "18",
+      "id": "0x8cf8238abf7b933bf8bb5ea2c7e4be101c11de2a",
+      "symbol": "XPNET"
+    },
+    {
+      "decimals": "18",
+      "id": "0x9b26e16377ad29a6ccc01770bcfb56de3a36d8b2",
+      "symbol": "HERO"
+    },
+    {
+      "decimals": "18",
+      "id": "0xf07dfc2ad28ab5b09e8602418d2873fcb95e1744",
+      "symbol": "IPAD"
+    }
+  ]
+}

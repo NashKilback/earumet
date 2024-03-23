@@ -1,0 +1,9011 @@
+[
+  {
+    "id": "0xd10321489BeB6D3a83e09Fa059CF6C8BE5A4C542",
+    "token0": {
+      "symbol": "KEYFI"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x0ed7e52944161450477ee417de9cd3a859b14fd0",
+    "token0": {
+      "symbol": "Cake"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x58f876857a02d6762e0101bb5c46a8c1ed44dc16",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x16b9a82891338f9ba80e2d6970fdda79d1eb0dae",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7efaef62fddcca950418312c6c91aef321375a00",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x74e4716e431f45807dcf19f284c7aa99f18a4fbc",
+    "token0": {
+      "symbol": "ETH"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd171b26e4484402de70e3ea256be5a2630d7e88d",
+    "token0": {
+      "symbol": "ETH"
+    },
+    "token1": {
+      "symbol": "BTCB"
+    }
+  },
+  {
+    "id": "0x61eb789d75a95caa3ff50ed7e47b96c132fec082",
+    "token0": {
+      "symbol": "BTCB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2354ef4df11afacb85a5c7f98b624072eccddbb1",
+    "token0": {
+      "symbol": "USDC"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xf45cd219aef8618a92baa7ad848364a158a24f33",
+    "token0": {
+      "symbol": "BTCB"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xff3dd404afba451328de089424c74685bf0a43c9",
+    "token0": {
+      "symbol": "SAFEMOON"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe267018c943e77992e7e515724b07b9ce7938124",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "HERO"
+    }
+  },
+  {
+    "id": "0x8fa59693458289914db0097f5f366d771b7a7c3f",
+    "token0": {
+      "symbol": "MBOX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xec6557348085aa57c72514d67070dc863c0a5a8c",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "USDC"
+    }
+  },
+  {
+    "id": "0x2e28b9b74d6d99d4697e913b82b41ef1cac51c6c",
+    "token0": {
+      "symbol": "TUSD"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xc736ca3d9b1e90af4230bd8f9626528b3d4e0ee0",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BabyDoge"
+    }
+  },
+  {
+    "id": "0xea26b78255df2bbc31c1ebf60010d78670185bd0",
+    "token0": {
+      "symbol": "ETH"
+    },
+    "token1": {
+      "symbol": "USDC"
+    }
+  },
+  {
+    "id": "0x804678fa97d91b974ec2af3c843270886528a9e6",
+    "token0": {
+      "symbol": "Cake"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xdd5bad8f8b360d76d12fda230f8baf42fe0022cf",
+    "token0": {
+      "symbol": "DOT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe7987f07c01b6ca83971e8407d67cafb3193619c",
+    "token0": {
+      "symbol": "YOOSHI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa39af17ce4a8eb807e076805da1e2b8ea7d0755b",
+    "token0": {
+      "symbol": "Cake"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0xf3bc6fc080ffcc30d93df48bfa2aa14b869554bb",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BELT"
+    }
+  },
+  {
+    "id": "0xb72723e36a83fb5fe1793f06b436f4720f5de4f9",
+    "token0": {
+      "symbol": "BNX"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x03f18135c44c64ebfdcbad8297fe5bdafdbbdd86",
+    "token0": {
+      "symbol": "XRP"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xdcfbb12ded3fea12d2a078bc6324131cd14bf835",
+    "token0": {
+      "symbol": "BTT"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xb5d108578be3750209d1b3a8f45ffee8c5a75146",
+    "token0": {
+      "symbol": "TRX"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x28415ff2c35b65b9e5c7de82126b4015ab9d031f",
+    "token0": {
+      "symbol": "ADA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x66fdb2eccfb58cf098eaa419e5efde841368e489",
+    "token0": {
+      "symbol": "DAI"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x7752e1fa9f3a2e860856458517008558deb989e3",
+    "token0": {
+      "symbol": "ALPACA"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xd254a3c351dad83f8b369554b420047a1ed60f1c",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "EGC"
+    }
+  },
+  {
+    "id": "0xac109c8025f272414fd9e2faa805a583708a017f",
+    "token0": {
+      "symbol": "DOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x942b294e59a8c47a0f7f20df105b082710f7c305",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SFP"
+    }
+  },
+  {
+    "id": "0x824eb9fadfb377394430d2744fa7c42916de3ece",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "LINK"
+    }
+  },
+  {
+    "id": "0x74fa517715c4ec65ef01d55ad5335f90dce7cc87",
+    "token0": {
+      "symbol": "SFUND"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x014608e87af97a054c9a49f81e1473076d51d9a3",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "UNI"
+    }
+  },
+  {
+    "id": "0xb372ea0debcc8235c2374929028284973e4f5e26",
+    "token0": {
+      "symbol": "FLOKI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc803790dd1a234b326cd4e593b05337a0c84a05e",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CBET"
+    }
+  },
+  {
+    "id": "0xc016f93d1b11878804c345e93c8588794480cd83",
+    "token0": {
+      "symbol": "RACA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x00222d964a2077301309809ab3bf56485c126a9c",
+    "token0": {
+      "symbol": "POSI"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x8e744ec2795c8b836689d1b4ebe1489204357dac",
+    "token0": {
+      "symbol": "RACA"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xbd26e08411483c4bebba80939fa5a775bee22338",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ETERNAL"
+    }
+  },
+  {
+    "id": "0xe9a645aad486538bcb5aa05171f61cb3e78afa5a",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xcad7019d6d84a3294b0494aef02e73bd0f2572eb",
+    "token0": {
+      "symbol": "ALICE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7eb5d86fd78f3852a3e0e064f2842d45a3db6ea2",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "XVS"
+    }
+  },
+  {
+    "id": "0x05faf555522fa3f93959f86b41a3808666093210",
+    "token0": {
+      "symbol": "UST"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x8195143df00e94f320f3f60c48d5ed97a6bfabfc",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "PORNROCKET"
+    }
+  },
+  {
+    "id": "0x632963e19c9c420c22c5422a7625e80e454f6f2b",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "GMEX"
+    }
+  },
+  {
+    "id": "0x93d94fcb0dcc8a88257b2d2eec7a2615ebedb542",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "RISE"
+    }
+  },
+  {
+    "id": "0x861859cc8d3c650b07373ed699d5bd8f5e80eb07",
+    "token0": {
+      "symbol": "REVA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5226a2c7be3d239636fb144722fd45b99ab80a24",
+    "token0": {
+      "symbol": "JOJO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6a445ceb72c8b1751755386c3990055ff92e14a0",
+    "token0": {
+      "symbol": "WIN"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x92247860a03f48d5c6425c7ca35cdcfcb1013aa1",
+    "token0": {
+      "symbol": "C98"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6c6636eada7cc046c7a83aea0d973810234ec291",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CATE"
+    }
+  },
+  {
+    "id": "0x16afc4f2ad82986bbe2a4525601f8199ab9c832d",
+    "token0": {
+      "symbol": "ETH"
+    },
+    "token1": {
+      "symbol": "SUSHI"
+    }
+  },
+  {
+    "id": "0xb43bc4ba0a476b37a640324cee67e9c27ab740b5",
+    "token0": {
+      "symbol": "TSC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3a2afa6ae6af7227a377203a5c83da061f5eec89",
+    "token0": {
+      "symbol": "SYA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x252c6e5a2b8eca987b2678618546c388b9b4b933",
+    "token0": {
+      "symbol": "CATGIRL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2baccc1e3900ea5373c65621ebe689f96815eac9",
+    "token0": {
+      "symbol": "CLU"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0ecc84c9629317a494f12bc56aa2522475bf32e8",
+    "token0": {
+      "symbol": "NFT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xcfd9ee6d907f62f03942ca2e6f94f40e35d29c2f",
+    "token0": {
+      "symbol": "GHC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9378171be949aa5a308ab3339ce64a87632c406a",
+    "token0": {
+      "symbol": "SMON"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x71b01ebddd797c8e9e0b003ea2f4fd207fbf46cc",
+    "token0": {
+      "symbol": "LTC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6cc280119bfa0e63ffa51d33076a5b4fa71231f5",
+    "token0": {
+      "symbol": "DXCT"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xa17d2c8b629095672633828d744a03608bbaae24",
+    "token0": {
+      "symbol": "KABOSU"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3c2b7b578dd2175a1c3524aa0d515106282bf108",
+    "token0": {
+      "symbol": "BMON"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x133ee93fe93320e1182923e1a640912ede17c90c",
+    "token0": {
+      "symbol": "VAI"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x59fac9e98479fc9979ae2a0c7422af50bcbb9b26",
+    "token0": {
+      "symbol": "rUSD"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x254baa324a7e8876f4d51c3eff4b962f16672c5f",
+    "token0": {
+      "symbol": "POSI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x007ace5397b56e19a9436fba289d7fed71c49328",
+    "token0": {
+      "symbol": "GMR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2681d05c2de74a3ddf40e608d063495db32cfce4",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "QUACK"
+    }
+  },
+  {
+    "id": "0x88a02d94f437799f06f8c256ff07aa397e6d0016",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BETA"
+    }
+  },
+  {
+    "id": "0xa5cf212d889dc9c05d47924cf2e909fb50df928f",
+    "token0": {
+      "symbol": "ACT"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x53085b02955cfd2f884c58d19b8a35ef5095e8ae",
+    "token0": {
+      "symbol": "scUSD"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x7e3d628d6014756285dff1f4c5d54edc76095e42",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SBNB"
+    }
+  },
+  {
+    "id": "0x045b8c3b5e60780e3b42348baf39f2e0f3d7ffe5",
+    "token0": {
+      "symbol": "MiniDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3fc615cf3e94997aaeda6b9a9a45432d3866a943",
+    "token0": {
+      "symbol": "XOM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8b1cdd40cfcbb9866cc77c8bf0fb215c535268a5",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "WHALE"
+    }
+  },
+  {
+    "id": "0xc5e1b7e86a63d23a88b85a0fe00772f058a4dcc4",
+    "token0": {
+      "symbol": "BabyShibaInu"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc2d00de94795e60fb76bc37d899170996cbda436",
+    "token0": {
+      "symbol": "AXS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd16e9b91d653d859041cb8ee0ccb26a482489ba4",
+    "token0": {
+      "symbol": "PING"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe0c4bef461540a941cc07790c5ef77f36c15650f",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ICE"
+    }
+  },
+  {
+    "id": "0xacf47cbeaab5c8a6ee99263cfe43995f89fb3206",
+    "token0": {
+      "symbol": "ALPHA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1bdcebca3b93af70b58c41272aea2231754b23ca",
+    "token0": {
+      "symbol": "INJ"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7ef0841e1c4854a02ba08a1d9e69f3d1e3533dcc",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xfdfde3af740a22648b9dd66d05698e5095940850",
+    "token0": {
+      "symbol": "SPS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf23bad605e94de0e3b60c9718a43a94a5af43915",
+    "token0": {
+      "symbol": "HOTCROSS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9d2296e2fe3cdbf2eb3e3e2ca8811bafa42eedff",
+    "token0": {
+      "symbol": "ONE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5cf01b9519af45d4e6eb17b668f11ca182290e10",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "SGRv2"
+    }
+  },
+  {
+    "id": "0xfd94e36c1f84dd91df47600697484ba014862c76",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SMARS"
+    }
+  },
+  {
+    "id": "0xe39c55fb2ab7d9b6888bcc5178a44ebb0cf42bbb",
+    "token0": {
+      "symbol": "QBIT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf1b66d220479a5620677518c139d0a33f609793b",
+    "token0": {
+      "symbol": "BIT"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x42ebfa37f82ef1819c1718bf083d3fc45427395a",
+    "token0": {
+      "symbol": "NSI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3c7e7122f4ddcfc5b5c31b5c735ce2ae3b015856",
+    "token0": {
+      "symbol": "ALU"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf19f176605cb4a8da8cd6c97e36f649426e2b1a1",
+    "token0": {
+      "symbol": "WKD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa6a645569a01aa0611be2b6bf25c7be7b2d9a283",
+    "token0": {
+      "symbol": "NBL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf31be08a8161acd110eb8e1e77e5f9e9390cb0ab",
+    "token0": {
+      "symbol": "PETS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x884d426e3ca7c48eb6ce8fab02f562b10cd7fd8d",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "TRUBGR"
+    }
+  },
+  {
+    "id": "0xc13aa76aac067c86ae38028019f414d731b3d86a",
+    "token0": {
+      "symbol": "IOTX"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xba01662e978de7d67f8ffc937726215eb8995d17",
+    "token0": {
+      "symbol": "BSCPAD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x79bcada5fe6e528a98b49cf38ace983dde3644ce",
+    "token0": {
+      "symbol": "DBZ"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6045931e511ef7e53a4a817f971e0ca28c758809",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "CHR"
+    }
+  },
+  {
+    "id": "0x0ebf5ee50997922620847eec472bad35ca02105d",
+    "token0": {
+      "symbol": "MEDA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1cea83ec5e48d9157fcae27a19807bef79195ce1",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ELEPHANT"
+    }
+  },
+  {
+    "id": "0xa9986fcbdb23c2e8b11ab40102990a08f8e58f06",
+    "token0": {
+      "symbol": "DODO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x615f970a27793dec03a1869c4d5f8f55fb33cc1c",
+    "token0": {
+      "symbol": "bURUS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x39d26bca778a528ebdd57b136f777820be5edd1a",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2ae94a6c768d59f5ddc25bd7f12c7cbe1d51dc04",
+    "token0": {
+      "symbol": "WOOP"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe834bf723f5bdff34a5d1129f3c31ea4787bc76a",
+    "token0": {
+      "symbol": "RAMP"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xd469f2e7d1329836733adbac6b53e09b775a6e03",
+    "token0": {
+      "symbol": "LIGHT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe6b421a4408c82381b226ab5b6f8c4b639044359",
+    "token0": {
+      "symbol": "TLM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x91761c931a8da0ca2bf0c659343a2638757dc5ea",
+    "token0": {
+      "symbol": "OTO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5ca063a7e2bebefeb2bdea42158f5b825f0f9ffb",
+    "token0": {
+      "symbol": "GYRO"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0x062f88e2b4896e823ac78ac314468c29eec4186d",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4a1626bfc8e0f542ec9a6b6245e6a9d08aed0040",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x3dcb1787a95d2ea0eb7d00887704eebf0d79bb13",
+    "token0": {
+      "symbol": "TWT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8e04b3972b5c25766c681dfd30a8a1cbf6dcc8c1",
+    "token0": {
+      "symbol": "RFOX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb5c73191e68d99fcca64bec69a89998f73c5a4a9",
+    "token0": {
+      "symbol": "BAS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe4077a90f8600d9599440cc6d9057785f43a6ac9",
+    "token0": {
+      "symbol": "MCB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb31ecb43645eb273210838e710f2692cc6b30a11",
+    "token0": {
+      "symbol": "SHEESHA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf1492f4a51b3fd6ebe29e83a5f1d2bdb2262e708",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xb5ea073c8fa5dc0cbce0852c79a34f6351f291e8",
+    "token0": {
+      "symbol": "DaddyDoge"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5afef8567414f29f0f927a0f2787b188624c10e2",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BUNNY"
+    }
+  },
+  {
+    "id": "0x99b981f5913bc1305550ecac8985bc0668fa08ce",
+    "token0": {
+      "symbol": "TPAD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xffd4b200d3c77a0b691b5562d804b3bd54294e6e",
+    "token0": {
+      "symbol": "TKO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7411a860350abb7698fccd572931ccc1bf06dbfd",
+    "token0": {
+      "symbol": "HARE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1472976e0b97f5b2fc93f1fff14e2b5c4447b64f",
+    "token0": {
+      "symbol": "CHESS"
+    },
+    "token1": {
+      "symbol": "USDC"
+    }
+  },
+  {
+    "id": "0x0ddc6ce1ba3fc706edb1d5ef9fac90e73185903a",
+    "token0": {
+      "symbol": "DogeDash"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbcfd0d4a37feb4dceaaefa9da28cd833e5f04e9f",
+    "token0": {
+      "symbol": "MONI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x67efef66a55c4562144b9acfcfbc62f9e4269b3e",
+    "token0": {
+      "symbol": "QBT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xdf3caba6cc555e3526f66c2aa389644bebcda823",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7396ff557cdf8af80ed8aa92b910eab2a278bda3",
+    "token0": {
+      "symbol": "ASTRO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x60c9bd6eee0a911b987a749f0db0f24d79bcdcf5",
+    "token0": {
+      "symbol": "EMPIRE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x37ff7d4459ad96e0b01275e5efffe091f33c2cad",
+    "token0": {
+      "symbol": "WSG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc5768c5371568cf1114cddd52caed163a42626ed",
+    "token0": {
+      "symbol": "LINA"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xc80722e65044cac7ece5c19c06a889a369a5d92d",
+    "token0": {
+      "symbol": "UNIMOON"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x68fedd93af313dda70e6c5cd368f434403e3c689",
+    "token0": {
+      "symbol": "KODA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd02da76c813b9cd4516ed50442923e625f90228f",
+    "token0": {
+      "symbol": "ITAM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x55e5c2ab8e43109602826b9816172990efe4f2ad",
+    "token0": {
+      "symbol": "AFRO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xdde420cbb3794ebd8ffc3ac69f9c78e5d1411870",
+    "token0": {
+      "symbol": "EPS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6db23b5360c9d2859fdcbf41c56494e7b8573649",
+    "token0": {
+      "symbol": "FINA"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x16cc94254b282c6b4fbcd671aa9e5e6aebf52fa3",
+    "token0": {
+      "symbol": "SSB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xfabef04b342d128ca3638dc39d5138dc80bd99b9",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "NFTB"
+    }
+  },
+  {
+    "id": "0x25e1b300dc035eadcf73902a68515ec26748fbf7",
+    "token0": {
+      "symbol": "PROT"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xd99c7f6c65857ac913a8f880a4cb84032ab2fc5b",
+    "token0": {
+      "symbol": "USDC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x46c6ba71af7648cd7f67d0ad4d16f75be251ed12",
+    "token0": {
+      "symbol": "MASK"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xffd50f49ad4f9335abc1f1b9e5a6ed90815f5fda",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "FARA"
+    }
+  },
+  {
+    "id": "0xea70373047772662b911297b33922b73aa13c389",
+    "token0": {
+      "symbol": "CWT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe432afb7283a08be24e9038c30ca6336a7cc8218",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BIN"
+    }
+  },
+  {
+    "id": "0xad59948b6b35833f24704d814e4d6ed04d185d10",
+    "token0": {
+      "symbol": "ULTGG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x105573088889495f65ecd72d8081b1241626b14a",
+    "token0": {
+      "symbol": "MNG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2bf2deb40639201c9a94c9e33b4852d9aea5fd2d",
+    "token0": {
+      "symbol": "BP"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8738dfc091269c9d2382cb89463533b6fba06c1c",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1d51f1f6da2d274534c93a52303a39c286ec9b8f",
+    "token0": {
+      "symbol": "DOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa10b3b6d5f76835c83293a1c74bdde1f22f71df4",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "MLTP"
+    }
+  },
+  {
+    "id": "0x0c5da0f07962dd0256c079248633f2b43cad6f62",
+    "token0": {
+      "symbol": "POOCOIN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbff97d9a0719eeb69b56e4d0cd5a3c82f0ffd7df",
+    "token0": {
+      "symbol": "WALBT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xcaf3ba00f81bc325fdbf4f7a2f5dd963082b8b88",
+    "token0": {
+      "symbol": "KIDS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x31ec8f77a11aa0277948ed5f9b7b1daf23de3fda",
+    "token0": {
+      "symbol": "TRONPAD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb5e33fe13a821e55ed33c884589a804b1b4f6fd8",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BABYCAKE"
+    }
+  },
+  {
+    "id": "0x7f1bb2d98ad5ba6fae2a86acfc170cc2edfd57ec",
+    "token0": {
+      "symbol": "ElonGate"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7d2c9b5f03a5faa3e3f59f0567c847ac429df4ab",
+    "token0": {
+      "symbol": "CUMSTAR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x89ebf9cd99864f6e51bd7a578965922029cab977",
+    "token0": {
+      "symbol": "DVI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb2678c414ebc63c9cc6d1a0fc45f43e249b50fde",
+    "token0": {
+      "symbol": "BTCST"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xdd901faf9652d474b0a70263e13da294990d49ae",
+    "token0": {
+      "symbol": "BOG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf88c99cf4fcf73de7f78bc6a508559d10048b77f",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x158befde95a3b2b5c915d04b0fbeefb1a542ca53",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SteamX"
+    }
+  },
+  {
+    "id": "0xd5d00b0ad40ff6d8c1a6f7e72f185b6fb3c3fd1f",
+    "token0": {
+      "symbol": "Zoo"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xbe80839a3be4d3953d5588a60a11aeaed286b593",
+    "token0": {
+      "symbol": "DOBO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x165c193a32146aefb1d24890f75d597020fcc8cd",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "RAINI"
+    }
+  },
+  {
+    "id": "0x36118142f8c21a1f3fd806d4a34f56f51f33504f",
+    "token0": {
+      "symbol": "HUNNY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x11c0b2bb4fbb430825d07507a9e24e4c32f7704d",
+    "token0": {
+      "symbol": "LAZIO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3edb06e2d182d133864fe7c0f9b4c204bbf61d4e",
+    "token0": {
+      "symbol": "TLOS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8dc058ba568f7d992c60de3427e7d6fc014491db",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xdd3f95086893617455e9932d220a470bb3e49174",
+    "token0": {
+      "symbol": "Ginza"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0x9c51034c57dc2e1ea55944a1ecb2912cecfcb757",
+    "token0": {
+      "symbol": "OLYMPUS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe859b6a32d953a0ece0027c0fc8575571862c0bb",
+    "token0": {
+      "symbol": "THOREUM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xdfdc2291e2084a228bd07d69369770a37c76d7ff",
+    "token0": {
+      "symbol": "BARMY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd5f9dd2d0925fb5a46c366f4b8318373150d316c",
+    "token0": {
+      "symbol": "GOMA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd8e2f8b6db204c405543953ef6359912fe3a88d6",
+    "token0": {
+      "symbol": "SXP"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf1ec67fa1881796bff63db3e1a301ce9cb787fad",
+    "token0": {
+      "symbol": "DEGO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3041b5fa21f107411f4b3cf4f07a316b847ac218",
+    "token0": {
+      "symbol": "DOGECOIN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6684f7c46304acb0f5138c5a1bdbf76b5e917720",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x55cdb14855220b239cf857a03849d96736b9103f",
+    "token0": {
+      "symbol": "RPG"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xa11265a58d9f5a2991fe8476a9afea07031ac5bf",
+    "token0": {
+      "symbol": "POLS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa3fe441e6f5b27273fa7294c462bc55c60a0d785",
+    "token0": {
+      "symbol": "XPR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb4e7b227d344c8ba1604ae241898e02da3d1fe63",
+    "token0": {
+      "symbol": "TABOO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6d0c831254221ba121fb53fb44df289a6558867d",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "TPT"
+    }
+  },
+  {
+    "id": "0x648f842c182b993e4e9a31e172cec82207b68e64",
+    "token0": {
+      "symbol": "BTCB"
+    },
+    "token1": {
+      "symbol": "FLUX"
+    }
+  },
+  {
+    "id": "0xbd55557c5e05dd781501a022a18edb50ff0b69c2",
+    "token0": {
+      "symbol": "KODI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x913564a8596faaa70855b0d37c8daba1b42f788f",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "WEYU"
+    }
+  },
+  {
+    "id": "0x89ee0491ce55d2f7472a97602a95426216167189",
+    "token0": {
+      "symbol": "WOO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x700ce28195d41712637fd9441b38bc4445405185",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "MILIT"
+    }
+  },
+  {
+    "id": "0x3424bb49a596e6651800a05b29b00ad9d3ce5796",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DKYC"
+    }
+  },
+  {
+    "id": "0x92e5d16d9ad8c34c62ca6b0bcf0d2ba67102d722",
+    "token0": {
+      "symbol": "CBN"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0xee90c67c9dd5de862f4eabfdd53007a2d95df5c6",
+    "token0": {
+      "symbol": "BATH"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x8785d93c343b49f8896aeefe38e8feac3f19a9df",
+    "token0": {
+      "symbol": "EPICHERO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x963903bb19eb5510b903f0e0da29aaf305bcfcda",
+    "token0": {
+      "symbol": "ORION"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x7a3dc277b07947754b23dc4e579c59830baa8490",
+    "token0": {
+      "symbol": "DogeZilla"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xcf3ed0670c671034c58f6b771757a8529238ca3a",
+    "token0": {
+      "symbol": "FEED"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x486697ae24469cb1122f537924aa46e705b142aa",
+    "token0": {
+      "symbol": "THG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6a9793590e619bbe40986050969c598a31e37aa8",
+    "token0": {
+      "symbol": "PirateCoin☠"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc80815214371bde401f25e21546df68d93031e3e",
+    "token0": {
+      "symbol": "ULTI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc6b668548aa4a56792e8002a920d3159728121d5",
+    "token0": {
+      "symbol": "FRONT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9e38f69710ecbf20aae8c1583fb914ea68e431ad",
+    "token0": {
+      "symbol": "RAINBOW"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x52c400e56c15de371fe9fd610b2d9235ac8489c9",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "LIZ"
+    }
+  },
+  {
+    "id": "0xaf7e457dea8f50f004d2ed0820c20b0d5b9395cf",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd9f2911af39bd1d1bc372b98ad9c0aa89007010b",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "MICHI"
+    }
+  },
+  {
+    "id": "0xcfbd5b7583ae717d6890a01f957a7439eda860fa",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "CGU"
+    }
+  },
+  {
+    "id": "0xe876ee0945ce80ef821633f2c18950b33fb85633",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DeHub"
+    }
+  },
+  {
+    "id": "0x85e5889fc3ed01b4e8b56bbc717d7643294d2c31",
+    "token0": {
+      "symbol": "Zoo"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x249a963e6632e539765ea9bd8e896f377b69bcee",
+    "token0": {
+      "symbol": "PVU"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x445e40dc6a03a601ce8fc7b604a45307947ce127",
+    "token0": {
+      "symbol": "VLXPAD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x683c425d917e8fef34c8bbbeab57246dd2a8b718",
+    "token0": {
+      "symbol": "SQUID"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x90b4320d89abc65b7129043000db6c1ecd7e24e6",
+    "token0": {
+      "symbol": "SMRAT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0ffd12339aecd9c73ad1ddf216dc20a7bc765974",
+    "token0": {
+      "symbol": "STARSHIP"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8acb24d6a6f0898a94dc43e3d730a6d8879bb193",
+    "token0": {
+      "symbol": "GZONE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x13cae0ea840f938cdd5defa82b5f96734efc8686",
+    "token0": {
+      "symbol": "EDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5407d635315514cfb438a8cac2c72cce890631da",
+    "token0": {
+      "symbol": "ZOON"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x99bf9cc0154655c5e913b752984a92ad391afe32",
+    "token0": {
+      "symbol": "HAM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0edf3f4110e58afa6829dae7c3d7c1e9258f3e78",
+    "token0": {
+      "symbol": "LEOS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x24e1d141b29f443fd0d2dd3e234444bb34228182",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa63e32feefc6590bbf869070fd2e706eb7881bd2",
+    "token0": {
+      "symbol": "ARV"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbfc8aa0d687c97fe6db5da3258f87ced1777daff",
+    "token0": {
+      "symbol": "OXB"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xced167d3038bda5b71c209e1e3af22d3504c81e4",
+    "token0": {
+      "symbol": "FALCX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4686913f5e375989346759300ce11612085e4f26",
+    "token0": {
+      "symbol": "SNP"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xcd9fd11cae699964068c8c0d3ca5235bbec3958e",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x703d9c56249642cd04fda5d7e413582a1a781f89",
+    "token0": {
+      "symbol": "SHI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x19ad156ea2d5d64f9c63cd9f575efe52a118f160",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "Royal"
+    }
+  },
+  {
+    "id": "0x1f04bf1938a36ff0bd6f811ee5ef6822ecb6ed49",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "LIQ"
+    }
+  },
+  {
+    "id": "0x3d6c71cee154124478bc0691e99bb7cc7a1ee911",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "TAC"
+    }
+  },
+  {
+    "id": "0x5d937c3966002cbd9d32c890a59439b4b300a14d",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "HERO"
+    }
+  },
+  {
+    "id": "0x61ca6ae520b9c9cfab0b66afad78ff7127ba37b6",
+    "token0": {
+      "symbol": "SALE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc7a9b3f56661535302b4133cd0d814137d46172e",
+    "token0": {
+      "symbol": "Nafty"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xaa40dc3ec6ad76db3254b54443c4531e3dfe6bdb",
+    "token0": {
+      "symbol": "ATL"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x18be965c08923fe3d957503c108e264bef0d5669",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DPS"
+    }
+  },
+  {
+    "id": "0x02127e5660591f3b43288a2c60842f787a55ef13",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CXPAD"
+    }
+  },
+  {
+    "id": "0x48bac97d5e3116626a56704be7399e1cb593a945",
+    "token0": {
+      "symbol": "ULTRA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xee22415f8b3ddb0e3c45b493620d9e3d7ff7809f",
+    "token0": {
+      "symbol": "AFFINITY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8d6f5556fda740dc13afab3009e277c15bf686d2",
+    "token0": {
+      "symbol": "FootballStars"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x604bd24343134066c16ffc3efce5d3ca160c1fee",
+    "token0": {
+      "symbol": "ZENIQ"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9fcad883bccd36af4c50bf0f2d0980b3501e1006",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "MiniFootball"
+    }
+  },
+  {
+    "id": "0x0f0dc973e03104f34378cac2d8c3214f37231aaf",
+    "token0": {
+      "symbol": "EPIK"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x44800df6f37f2838bed043929e20ff5059ecbf6f",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "CP"
+    }
+  },
+  {
+    "id": "0xfa180f7bc3f4718d1dbddfcab73b48c063d3087f",
+    "token0": {
+      "symbol": "MEPAD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd9e38dd052bb997d3c983bf9b49d30fa133f7cf9",
+    "token0": {
+      "symbol": "SAFEARN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x472e71c0e729cbe32b883502f833e6e8f2cd78d2",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "STRX"
+    }
+  },
+  {
+    "id": "0x1c30a5d3f856f62f01be26c18bb81f43ac197b61",
+    "token0": {
+      "symbol": "NSFW"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd1ebc1fb11c4448fa5e506d89609c0d0794ae569",
+    "token0": {
+      "symbol": "TTK"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xfdf3b6a027839a30a5de3e355708fd45c323f7ec",
+    "token0": {
+      "symbol": "Santa"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1baa21674cd0c493b1e6c7e03f9c2917ea6cc201",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ADAPAD"
+    }
+  },
+  {
+    "id": "0x04adeadd9f17c5605829a70962b643bd042c04e0",
+    "token0": {
+      "symbol": "RONINGMZ"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa6744c5065e778b47a9ab4ce1e2dc4a6b489effa",
+    "token0": {
+      "symbol": "wZNN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x711de3b5acd1dd3a9807653a94ecfaccddf19594",
+    "token0": {
+      "symbol": "PINK"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1bfd3922d43dae1bdbdac751f9651d08bdc9e162",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xc943e8ea1173e03796925ddd7a5cf0b786b259c6",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6615ce60d71513aa4849269dd63821d324a23f8c",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "pCWS"
+    }
+  },
+  {
+    "id": "0x4d9d626746a9f1aa79e36185019fcaf09604f368",
+    "token0": {
+      "symbol": "FSI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9a590a591307e67aeb3f907e1fca53ad93b10d60",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BSCS"
+    }
+  },
+  {
+    "id": "0x7f5a011b3e0a0f8824f54059654ac52e7a3e47b9",
+    "token0": {
+      "symbol": "EverETH"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6125029a56ccdbe2625491b57f889308dd7b9085",
+    "token0": {
+      "symbol": "DEC"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x3a8153cf396680d5eaf04a1f4dde4540e3e32b2b",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "1ART"
+    }
+  },
+  {
+    "id": "0x2d9b4109ed85f40ef2fbfaa16539c7b156974da3",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "NAFT"
+    }
+  },
+  {
+    "id": "0x0fb513814e8d74c698f2f8afe40940b1a6b9e46d",
+    "token0": {
+      "symbol": "FEVR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xecf30fbecfa642012f54212a3be92eef1e48edac",
+    "token0": {
+      "symbol": "CYC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6a03863638c0ea796bfd5d9e4100e11d39e69bab",
+    "token0": {
+      "symbol": "LOUD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x365c3f921b2915a480308d0b1c04aef7b99c2876",
+    "token0": {
+      "symbol": "DKT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x04a6a9d17ed7043e672a3f49d5cc43cb58a0bf74",
+    "token0": {
+      "symbol": "LUCA"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xc33c988ae032d996f79519a688f6ca4059d0eac9",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "FAR"
+    }
+  },
+  {
+    "id": "0xef4461267ffa52a326bc26d77ee5dcf9fffa199b",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xa551bbeb6cf49ac1a4dfa556251594877fd6a7c0",
+    "token0": {
+      "symbol": "PupDoge"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x00105e37399e3dd45ca7a434c64e1c02cabc49ec",
+    "token0": {
+      "symbol": "MCONTENT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x07a933b655a36fd93b025de380e78508c9e0b471",
+    "token0": {
+      "symbol": "WGC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4799b0d36b421df620dafebde3ba19c2c2c2fc5c",
+    "token0": {
+      "symbol": "DCIP"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa9570d74ca22be5d91f46607f649c17bd3a5aae3",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SCAN"
+    }
+  },
+  {
+    "id": "0x4cec4f82292d78caa6cba0294f6713cddfb9c381",
+    "token0": {
+      "symbol": "TCUB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0c2393018b425a33eb5792fbd0328f74cb62ba7e",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "XTM"
+    }
+  },
+  {
+    "id": "0xcf5db175b7e869b1e0cc05a7614acde0d2b2f480",
+    "token0": {
+      "symbol": "RSUN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xabc4337526255fd46e5fedbdba9a32ae1042505e",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CPO"
+    }
+  },
+  {
+    "id": "0x0b024f5e46d79eb6ef5d685a370f1883c2010ccc",
+    "token0": {
+      "symbol": "NEWB"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x5a26eb7c9c72140d01039eb172dcb8ec98d071bd",
+    "token0": {
+      "symbol": "MIST"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb61447523499bfc951ba7131006bd94cb8f7f37d",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xd7202899ac189ec41f715bddf19d8f635884d15e",
+    "token0": {
+      "symbol": "CARS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x31e4286de26215c2e790732dc8ec78af36c338a7",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "EXZO"
+    }
+  },
+  {
+    "id": "0x3eba179df12afad67a0315630176393193d65dcf",
+    "token0": {
+      "symbol": "MINT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x196e7b3301c801256288ec29f4ed93dd4a47a4a5",
+    "token0": {
+      "symbol": "FIBO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd436ec4b7dc7e091447475c66e887a22c8c02b64",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BANKER"
+    }
+  },
+  {
+    "id": "0xe9a9653238ff9e79cd0c4ce06744ed9c0cb85d68",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "AIR"
+    }
+  },
+  {
+    "id": "0x6ef8850a890ec929057cba3332bf7937ef43ad0c",
+    "token0": {
+      "symbol": "NEWB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4547f9a84b2e6305eeb7e0d5768e60e98911f62e",
+    "token0": {
+      "symbol": "MOVE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3ce29a2bc916d726ab02d3007ae7842b763aa6e3",
+    "token0": {
+      "symbol": "DBT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0d6cae944bbefac560c941119ac95c6cf020a4a4",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "PKR"
+    }
+  },
+  {
+    "id": "0xed87d77eacb7846bf7edafa599b2f027f19aee8a",
+    "token0": {
+      "symbol": "DOG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd4a3dcf47887636b19ed1b54aab722bd620e5fb4",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "XWIN"
+    }
+  },
+  {
+    "id": "0x07c10ecfb0e1cf81e3e05ddb693cc114c8ebe498",
+    "token0": {
+      "symbol": "XCAD"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x5052ffbdffd115842b1e368f15a1fd6c9da0ef28",
+    "token0": {
+      "symbol": "BOSS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7670dc2be7ea3c8d425ad81446e4db050e648f35",
+    "token0": {
+      "symbol": "PARA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x16191699c8b65828a37b07df16f374c3dfd168fc",
+    "token0": {
+      "symbol": "LBNB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf44eedd4a9e5a007ab31e91b58511bfceab49fa1",
+    "token0": {
+      "symbol": "DOX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xee94c11c26dc5a4b29d3a34dc75fedd6f970a4d0",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DOGECOLA"
+    }
+  },
+  {
+    "id": "0x66c227980a0aa444682f2731cf934e9a1106225f",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "TCG2"
+    }
+  },
+  {
+    "id": "0x5a3615dcf179d1a3446c59473e281d5c6a006e4b",
+    "token0": {
+      "symbol": "USDC"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x18791a4927a4011a42f41ecbc692b97b69094785",
+    "token0": {
+      "symbol": "PKN"
+    },
+    "token1": {
+      "symbol": "USDC"
+    }
+  },
+  {
+    "id": "0x560b96f81a2190ff6ac84ebfd17788bab3679cbc",
+    "token0": {
+      "symbol": "MLT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x75df23d02fe366865be442dc68684d47dcac8e36",
+    "token0": {
+      "symbol": "NasaDoge"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5e2c18c17b1ce4b7636918633e923ef7ec2a234c",
+    "token0": {
+      "symbol": "FNDZ"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x903922e2dd88c64ad728237625d434d1295f59d1",
+    "token0": {
+      "symbol": "FLOKIN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8539fab5c3baab6cfaa983e495ec1011702c402f",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SABAKA INU"
+    }
+  },
+  {
+    "id": "0x1e06b8480733505e9dc228f69588511586edaad1",
+    "token0": {
+      "symbol": "ACA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe701e4c047f9e1b8d6e528a6c05b211e66668844",
+    "token0": {
+      "symbol": "SAFEHAMSTERS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbf1c91b5adac62637597544ca3e58df02eb09765",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe8d5d81dac092ae61d097f84efe230759bf2e522",
+    "token0": {
+      "symbol": "MCRN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbba0d008127a8e6c24cf4debe66add36e68599de",
+    "token0": {
+      "symbol": "JIGSAW"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3f1a9f3d9aad8bd339ed4853f345d2ef89fbfe0c",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BIFI"
+    }
+  },
+  {
+    "id": "0x5ede4136074e8165b3168972976622459506afd9",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x87225519a4cc402915ac011f4dceec75eed9ec5c",
+    "token0": {
+      "symbol": "PTM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x891584b17d6ad2d0871d69dd6bab05f0af2bd8fa",
+    "token0": {
+      "symbol": "NFTG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb5d7cc509f9de98e35f054392666122fdd4def47",
+    "token0": {
+      "symbol": "DARK"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x6097db595da66bd3cd73ee737b2cf46fbcbad781",
+    "token0": {
+      "symbol": "MNSTRS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x56971ea2cf2a5b9a5c700d2d644c5ca999fa9113",
+    "token0": {
+      "symbol": "NLIFE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2920bae0e1fdcb1f999a2700bba0155d1500dfe1",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SIMP"
+    }
+  },
+  {
+    "id": "0x845d301c864d48027db73ec4394e6ddbe52cbc39",
+    "token0": {
+      "symbol": "CCAR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc309a6d2f1537922e06f15aa2eb21caa1b2eedb6",
+    "token0": {
+      "symbol": "FINE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x75c7c70992c31fee5869d6cc59e603ae2ac2e63a",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "TASTE"
+    }
+  },
+  {
+    "id": "0xcdb0016d97fd0e7ec2c3b78aa4786cbd8e19c14c",
+    "token0": {
+      "symbol": "PMON"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x63dafff68e6d34e0a9050b221869ca93cd2a5949",
+    "token0": {
+      "symbol": "Celt"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0xe9de5886e68ae1c6f6a712aeb52a2baff1a233d6",
+    "token0": {
+      "symbol": "GMT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x89e8c0ead11b783055282c9acebbaf2fe95d1180",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x65b51bc890c24c0da163289b68480020222b4332",
+    "token0": {
+      "symbol": "WANA"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x222f93187f15f354d41ff6a7703ef7e18cdd5103",
+    "token0": {
+      "symbol": "MARSH"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x74af40dc4f80ce9f833d6cd18ef236b183bb3af6",
+    "token0": {
+      "symbol": "MWAR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf35e095f3656af6c7873a71c43c62d3d61950219",
+    "token0": {
+      "symbol": "AGS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xac434be743e378916f56712e09d2343e5e3a4d35",
+    "token0": {
+      "symbol": "EBSC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x54e2d5d694b1c4e06a12a6270705102d3adb4138",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x15f189c0c3f139794161a81e09c3cbf8d922dab9",
+    "token0": {
+      "symbol": "SFEX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x00e53c169da54a7e11172aeedf8eb87f060f479e",
+    "token0": {
+      "symbol": "BMON"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x6d5023cbf2073eb4f0c78a59040826c8f2fde050",
+    "token0": {
+      "symbol": "HODL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x54cdddec96cbaeaf1e29af083cf7643e3197f160",
+    "token0": {
+      "symbol": "SPE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd140e2d46aa11e6f59def76f5a82f9644775aa94",
+    "token0": {
+      "symbol": "AQUAGOAT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x75b93ccc4b9a38906311c3936f2c258ca4dcfae6",
+    "token0": {
+      "symbol": "WARS"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x78288583a8e24af0a757a2eeed5295ff2de025e3",
+    "token0": {
+      "symbol": "RBunny"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4689bf48cd12520e0eb5699964d37ddc5e96945b",
+    "token0": {
+      "symbol": "POLC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf7697db76fbf4ba5d22c0c72ab986cf751fba3af",
+    "token0": {
+      "symbol": "ORAI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4e53043b71ce479d5680745abc9dfa743093b1fa",
+    "token0": {
+      "symbol": "BAIT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf1ca293f00b75f35fc64466437cfe3fec4cf4cd9",
+    "token0": {
+      "symbol": "FLUX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb4e34e0f46a8aaceb7237ccef41ef565fd3e81fd",
+    "token0": {
+      "symbol": "XPLAY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc241891dd5b73c2dbe00a2f3cbe8fd047c874f10",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "COC"
+    }
+  },
+  {
+    "id": "0xe6f4dfadd8d83bc1963a2077ee03680149e4bad4",
+    "token0": {
+      "symbol": "BETU"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7625aae940c35505d069def82d5469b74a36550b",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CRYPT"
+    }
+  },
+  {
+    "id": "0x2b34ded9e8d60bf1f11feaa3a30dff79c2338fb2",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DPET"
+    }
+  },
+  {
+    "id": "0x3d36644bebc67e71dbc0de8e930ba65d13a49ee6",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf63e0da52cfe87afa0e09d6079e67b995aef353f",
+    "token0": {
+      "symbol": "VALK"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xcdff878ad09cb7219442b8580abdd7fd89b2b157",
+    "token0": {
+      "symbol": "$GREED"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x55024233576d4c2a38bf7a5673be1248d66ede9e",
+    "token0": {
+      "symbol": "SCV"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x783c433476c962feecbfbc49895b57612268df72",
+    "token0": {
+      "symbol": "PINKPANDA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x694d146f5353939a0cb8791dcec08f3c535b168e",
+    "token0": {
+      "symbol": "GDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0ea646d9394f43205534186ffe2e0b96dd6564d9",
+    "token0": {
+      "symbol": "PinkM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa9c815b975b72172d220065319902b176c527d72",
+    "token0": {
+      "symbol": "RPG"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x52f456774da2b63029bce0cd5fba6674b9c124cb",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xc06c4b5312e382d2ad863e87bbea4919c0b23469",
+    "token0": {
+      "symbol": "GAMI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc87d1a3cb88821b09b1a5057e79ce807b2de04f2",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "kUSD"
+    }
+  },
+  {
+    "id": "0xe0f86dcb6a24db96b37f2a130f19f6bd16bd2062",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SURFMOON"
+    }
+  },
+  {
+    "id": "0xdcd941d205737cef3f9a4425b47bee9dc755942e",
+    "token0": {
+      "symbol": "CTFT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xcf97655c6e0ee1a47fda9f447ada34357aa0b1e6",
+    "token0": {
+      "symbol": "GAFI"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xb4eafef7e4415380b15f3b8c0da5dd06935823a5",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SHIELDNET"
+    }
+  },
+  {
+    "id": "0x8a1a550e144fe6200b606881307cf51cafe98157",
+    "token0": {
+      "symbol": "CIFI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7d9a46ac9cb22a6c4e6a94253c309c0551f717fe",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x2aa763656a92ce1e6e560c3ea76b4c5fca7c6c14",
+    "token0": {
+      "symbol": "FEG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x71a99d49e6c0322d20a292cbf0a32ee5b54ace13",
+    "token0": {
+      "symbol": "10SET"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x62ba64970533c4be9db32760bf313fd53ff77f41",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "GNP"
+    }
+  },
+  {
+    "id": "0x5b0a3b98c2f01741a11e57a9d0595b254e62f9f2",
+    "token0": {
+      "symbol": "BSCDEFI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x47a785fe954563df474dd871234aedc19f86afa0",
+    "token0": {
+      "symbol": "BOXER"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x40b901e5f12bd33ba33a752dab41240d80b97082",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x786a5d7a19cfc280d8d955c972642129f1cde1c5",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "GLORYD"
+    }
+  },
+  {
+    "id": "0xfc64c26ece83de574a1ddaf3aaba638494530b46",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xfdf68922460d7508f84bd55acb9d276d3f9a2c31",
+    "token0": {
+      "symbol": "CUB"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xfe2760e8207c175c33bd537e3f907c6f6184e5ff",
+    "token0": {
+      "symbol": "SPE"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xcdb9016f678519b6f53770b9f1672c13464198f3",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x22da0851eb3781884d6dec9048612170a5ee0d3d",
+    "token0": {
+      "symbol": "LORD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3d35348aca6a2c0112f96980f9f7e55bee04e072",
+    "token0": {
+      "symbol": "AIRI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1998be7f13608e62eac2da735d88a576db3d9eea",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "IPAD"
+    }
+  },
+  {
+    "id": "0x175875ec1cc013fb67633ac599bc7f6ba3296e14",
+    "token0": {
+      "symbol": "NEVADA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x15be667fb5129b6a0e6af0814bee800e6190d2d2",
+    "token0": {
+      "symbol": "OPUL"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x08a6cd8a2e49e3411d13f9364647e1f2ee2c6380",
+    "token0": {
+      "symbol": "USELESS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0815a013774c706f730293f77023b6f00ee95abc",
+    "token0": {
+      "symbol": "PEARL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xee4046935ae222ec802d4c5c53eee4706960e1b1",
+    "token0": {
+      "symbol": "$Nature"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0xc2f1a40d3ba746b913c798057d8010800aace255",
+    "token0": {
+      "symbol": "Gold"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x70a0bb3c20109f633bf9cdd33ef9a5350dca80dc",
+    "token0": {
+      "symbol": "GFloki"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0aabd060cb8b7766e237e0b6da7cceb91ab67e8c",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "PIGGY"
+    }
+  },
+  {
+    "id": "0x4a1534cbb5b6001a72f4489ad4b07ea68cf1829f",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "CSC"
+    }
+  },
+  {
+    "id": "0x798bf54a41c8f5baf9b62c72f84ef808ba4a5e79",
+    "token0": {
+      "symbol": "QANX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x29ba2032bc60bfabb15fd99a0b0b38c48400e6c4",
+    "token0": {
+      "symbol": "TIPINU"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf7b2ed3e1d8d8bf7c7534c5f8c1cef96a4c6a527",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "AOCO"
+    }
+  },
+  {
+    "id": "0xcca6df3c9e888ba411de5b4452c43356ee15f44e",
+    "token0": {
+      "symbol": "LFG"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x69afe59e88614501c3fdeb7480f12dba0a414032",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "Metis"
+    }
+  },
+  {
+    "id": "0x489714d52d45d38d0f8d9182a2bd79f7fa8e767e",
+    "token0": {
+      "symbol": "UNCX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x70f6f07bd191fb090a915b8a03bf34567108bf72",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "NFTL"
+    }
+  },
+  {
+    "id": "0x52058ac4f51853ea49d6bdabff78adeab7098665",
+    "token0": {
+      "symbol": "NDC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe98ac95a1db2fcaaa9c7d4ba7ecfce4877ca2bea",
+    "token0": {
+      "symbol": "HIGH"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xdb9f5d938658794e17286fbc059a02a69aa5190f",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BITORB"
+    }
+  },
+  {
+    "id": "0x0e537bb44eb6064d12326ff2543d918e9b9a5482",
+    "token0": {
+      "symbol": "BRKL"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x13c921afc19ddf5803a92c78751a49cfd4f5fdf8",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc40c0dc1b3aa5eb32fc98dddc89b83ccc297e11a",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BPAY"
+    }
+  },
+  {
+    "id": "0xa7040bdcabecee39f571c8f2c8d0d73cc10d62db",
+    "token0": {
+      "symbol": "DOGO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x778e4a3b6ec989796dd330569fda6ea9426cb064",
+    "token0": {
+      "symbol": "PPAD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5a58609da96469e9def3fe344bc39b00d18eb9a5",
+    "token0": {
+      "symbol": "bBADGER"
+    },
+    "token1": {
+      "symbol": "BTCB"
+    }
+  },
+  {
+    "id": "0x185b6d4073af236dac76c028e7a0f37f977f0df7",
+    "token0": {
+      "symbol": "MSN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd89d71fa750c899ed777a9237e4863c8e18a2576",
+    "token0": {
+      "symbol": "HE"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x52e634531b85dee08b3d7df524c23d27bbee103e",
+    "token0": {
+      "symbol": "NBL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x856caa95e424247a9e005393738ecd4c51d2fa62",
+    "token0": {
+      "symbol": "MUV"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x39335f37fa58fb0387f8b6f9256a897fbb2d7115",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "TEB"
+    }
+  },
+  {
+    "id": "0xe3ca10984dd42b2972a4957a7988f2cbd9549eff",
+    "token0": {
+      "symbol": "PWAR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4446e4869c8d7376e88fc18aedcdcf9c50b05fc3",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "TREES"
+    }
+  },
+  {
+    "id": "0x3d2bcc3ec4f97b0d4209fd947fc70f666f39d995",
+    "token0": {
+      "symbol": "AIOZ"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9ce5f7ce3c8dc1fd7c50400069a09cfe39384aa4",
+    "token0": {
+      "symbol": "KCCPAD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7759283571da8c0928786a96ae601944e10461ff",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "O3"
+    }
+  },
+  {
+    "id": "0xc477046b0b26d216808950d40a8cc11b5cee1cd8",
+    "token0": {
+      "symbol": "BRICKS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0c247c83a2bf9021573e2de7205d85c8c8b404b0",
+    "token0": {
+      "symbol": "SCC"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0xc21e7663a8ca376d0fb90025698ae32d57256fce",
+    "token0": {
+      "symbol": "TIKI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xfb7dd07b862334172fffe036028110facea9d4b6",
+    "token0": {
+      "symbol": "SRP"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x31358d8e902b0ce00f0eec16d0a7790a766581e1",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "DINA"
+    }
+  },
+  {
+    "id": "0xe8e139c69abf872d2f573ef6396f6bacc4fb5531",
+    "token0": {
+      "symbol": "$CODI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xdc9a574b9b341d4a98ce29005b614e1e27430e74",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "HZN"
+    }
+  },
+  {
+    "id": "0x27260a3ad517a2b0df888f76131d8921053a0eb5",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "PCHF"
+    }
+  },
+  {
+    "id": "0xd696e56642a28c5d4e0c18a0407b12f94693bb0f",
+    "token0": {
+      "symbol": "MMP"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2d518fdcc1c8e89b1abc6ed73b887e12e61f06de",
+    "token0": {
+      "symbol": "LZ"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x8046fa66753928f35f7db23ae0188ee6743c2fba",
+    "token0": {
+      "symbol": "τBTC"
+    },
+    "token1": {
+      "symbol": "BTCB"
+    }
+  },
+  {
+    "id": "0x9bafeea2a8bc72b1910ab102ca5f8eca6a67d929",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CAPS"
+    }
+  },
+  {
+    "id": "0x8dd5fc7941966448961250119db45af8aaa85d3f",
+    "token0": {
+      "symbol": "GALA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7dd308207c0e700466cafda79f0218d898c211f8",
+    "token0": {
+      "symbol": "BRISE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa97d5233db6d4c8a7df3db970fc7d9956c0577e6",
+    "token0": {
+      "symbol": "BONDLY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xdcfa0fecd0ddb0d27c50f95745c18b2f209dbda8",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "MUCNFT"
+    }
+  },
+  {
+    "id": "0xff61e3b34c6c4b0a384f8c320c77d77d7a65e68c",
+    "token0": {
+      "symbol": "WAG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4436d1789f16deb0322e9800844061911218f7c1",
+    "token0": {
+      "symbol": "HNW"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x5fe1e8f037d0e791894659fe300a847dbda248e1",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4e8d140b24c01d22dcb15d8159440ba692676102",
+    "token0": {
+      "symbol": "PAID"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x21dd71ab78ede3033c976948f769d506e4f489ee",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BRY"
+    }
+  },
+  {
+    "id": "0x4f3ea40fe0663e8d8bd2affd2f794b348dcb2191",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "RTTv2"
+    }
+  },
+  {
+    "id": "0x09907aa171cd131eba5acbaeec4991d66a21294f",
+    "token0": {
+      "symbol": "EULER"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4d8fc4d138a1bae3f391f069b27528ef22404b34",
+    "token0": {
+      "symbol": "CRUSADER"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4a24d6f25f72226ac81d9dc3d38f73541c8b764e",
+    "token0": {
+      "symbol": "NFTPAD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x33b96f0fc9c64b6ba6d85dc283db4f253281a6e2",
+    "token0": {
+      "symbol": "CBTT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x686e424023bac1b10897e0d2c7cef0717a2c9ac0",
+    "token0": {
+      "symbol": "Mverse"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1ccdaf5e732b42fa1c65a79a15b8fbbefc2c99be",
+    "token0": {
+      "symbol": "HGHG"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xd26d4b9a44a951cc3377d7320323f0a34f57d159",
+    "token0": {
+      "symbol": "DERC"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xf75a15b0d3a4e7c4f72717bf431e8e91a82c9d5a",
+    "token0": {
+      "symbol": "NFTBS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x83d10fd90c105a7add2b517d3bbaf9e1c1c3d7fb",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "HLD"
+    }
+  },
+  {
+    "id": "0xb92f62792f744d1f1ca4f024ebb90c0aa1d3ec0a",
+    "token0": {
+      "symbol": "CACT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa756c635c5253d0fb07add618d7b3919e7509f5f",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "IFO"
+    }
+  },
+  {
+    "id": "0xd6675f3db1b9ff04c55917d220648499e5c1a0a5",
+    "token0": {
+      "symbol": "XETA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x865c77d4ff6383e06c58350a2cfb95cca2c0f056",
+    "token0": {
+      "symbol": "TRAVA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf0f7014bb866cdd25ba7764e8d166b11f1e67c6d",
+    "token0": {
+      "symbol": "PINK"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0aae7d35dfb0847c90ec4476552a7da4ce6a1a52",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "RHYTHM"
+    }
+  },
+  {
+    "id": "0x7bae0d7d2760e681559fbb502b43ffa26561ba24",
+    "token0": {
+      "symbol": "CUB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xaddf6d9e77b862706c74af998f4bfe7c494bf8f1",
+    "token0": {
+      "symbol": "POCO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x01d856456be2b57d82c70cd31dd1dec69fe0b475",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "FLVR"
+    }
+  },
+  {
+    "id": "0x196f1dad8cd673e187efd56cfc58a776899f581b",
+    "token0": {
+      "symbol": "DNXC"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x82d86b481f8d9d01c6ad3d979a7b4c36e5d397d5",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SWAPZ"
+    }
+  },
+  {
+    "id": "0x3c63782e7befd833368bd97be125c5bbb59da162",
+    "token0": {
+      "symbol": "RYOSHI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x668c8afaf129f52e7ef419393045399cd8819bf0",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BAPES"
+    }
+  },
+  {
+    "id": "0xe223c1baafeac1204e53c96f4f2399e4ef597671",
+    "token0": {
+      "symbol": "$867"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xefe47fad05e1b730ded8b2a26cf2254641bd5c0e",
+    "token0": {
+      "symbol": "KWT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7275278c94b5e20708380561c4af98f38ddc6374",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "JGN"
+    }
+  },
+  {
+    "id": "0x4ddd56e2f34338839bb5953515833950ea680afb",
+    "token0": {
+      "symbol": "PHA"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x936928146a21afccd30dfa84824a780572b1630b",
+    "token0": {
+      "symbol": "XWG"
+    },
+    "token1": {
+      "symbol": "USDC"
+    }
+  },
+  {
+    "id": "0x2a995d355d5df641e878c0f366685741fd18d004",
+    "token0": {
+      "symbol": "HTB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0290bb0b2df961cf2b045d28ba9b2698b71ac8fc",
+    "token0": {
+      "symbol": "WOJ"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x94ad4e3c4ef7bb2ae1367212469feb34399e293e",
+    "token0": {
+      "symbol": "NOSTA"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x4fd6d315bef387fad2322fbc64368fc443f0886d",
+    "token0": {
+      "symbol": "SWINGBY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe723c8f69758b3ed8a6a463d7da07f52ac3ac02b",
+    "token0": {
+      "symbol": "ROBODOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1bc366251cb050d86f1fc92bd483a63a595f5453",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0x946522ee568f93d196728db3d141f3801a8dbd6a",
+    "token0": {
+      "symbol": "PATH"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x20e82ab3f8614debc5c64fd3bc99cf481f82cfa5",
+    "token0": {
+      "symbol": "GABECOIN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xcb984ddad6695f625affc95acbd4cec1e2e905e2",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "PokerFI"
+    }
+  },
+  {
+    "id": "0xdf7ce4a3fd1e2998ba732b650987bed60ea0a981",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BLP"
+    }
+  },
+  {
+    "id": "0xf51bf75d28748ff37b282eaf314e2b82fff900e0",
+    "token0": {
+      "symbol": "PUBE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd63b5cecb1f40d626307b92706df357709d05827",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "REEF"
+    }
+  },
+  {
+    "id": "0x5c58ba65fab08e30affb727b263089dee57a8c7a",
+    "token0": {
+      "symbol": "FIDO"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0xafc583c19a90b2cb0507ffbc84c55299bca4a5ca",
+    "token0": {
+      "symbol": "PARA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x071701a076cbac17bd55a9112eb9bef2f4e0c397",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9428d7f0660b1ec8e42930c08443880f8f663875",
+    "token0": {
+      "symbol": "HUDI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbc7e925f9dec60fe4f50c0457609f3ca5c3f5906",
+    "token0": {
+      "symbol": "XMS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x84d15c02acd9fb9e0266d4075e7207db11a15cb3",
+    "token0": {
+      "symbol": "ROOM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x642b9b88818586ba744ddb90107f19e00e6f1c33",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "MUSHU"
+    }
+  },
+  {
+    "id": "0x475cdbfddee4b50655699a9c25e84c6315ce33a3",
+    "token0": {
+      "symbol": "Zuna"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd95fcec6fcb59ab47b8d30b04a2cac588ac9d554",
+    "token0": {
+      "symbol": "AUR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xad7db2aea6e8904347be097f920174469a64774e",
+    "token0": {
+      "symbol": "SAT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7ca902514687ada83299649ba6159c4ad166c657",
+    "token0": {
+      "symbol": "CATBREAD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x38b5cc18a8ab19d87cd8248a9155dfd442ca321c",
+    "token0": {
+      "symbol": "SAFERMOON"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x79559afc894fa8c6fd89d718c8716d9163431cfb",
+    "token0": {
+      "symbol": "MAKE"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x02bff262b10b7ae1d2e4455ad4cae2d0a6ecf086",
+    "token0": {
+      "symbol": "CUMMIES"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3558c47c0f2309197857689d84cb620405e2c54d",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "DFL"
+    }
+  },
+  {
+    "id": "0x10261aa80c4dc7fb88558e27caf57d2599728a04",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe948e8bc62ee35d06a015199954c6c2a99e157af",
+    "token0": {
+      "symbol": "SIP"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xdc7188ac11e124b1fa650b73ba88bf615ef15256",
+    "token0": {
+      "symbol": "DERI"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x2102cfa8a03bbd0f0adf4f15f9cd4ae5a44dd25d",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "GFI"
+    }
+  },
+  {
+    "id": "0xb0fc90241e0eeb40c86aa056a92dc584fe7d5f8b",
+    "token0": {
+      "symbol": "XDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf90baa331cfd40f094476e752bf272892170d399",
+    "token0": {
+      "symbol": "POTS"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x3581735ce4d03f65e57614f521383e50e1678d98",
+    "token0": {
+      "symbol": "ALIA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x99f67345edf943e813d17d412ba9f583bca52037",
+    "token0": {
+      "symbol": "VAULT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9afca8698ec3b67f64abe7e588aa0f84c7e0f180",
+    "token0": {
+      "symbol": "TWO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6e7c0bb4cea846cfd9205edb50487ac12585bea2",
+    "token0": {
+      "symbol": "BHO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xecf6aa34b19e31311eb92768888bddd25aa72933",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "FILST"
+    }
+  },
+  {
+    "id": "0x7291823818997fa9e9b6c1ff4df40d4384f91340",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "PYRAM"
+    }
+  },
+  {
+    "id": "0xc171581bc7206d6301dc6b26f3c5872d4475059f",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CRACE"
+    }
+  },
+  {
+    "id": "0xa2facc7286e621c63a81a817dba57a3c4dcc5ff2",
+    "token0": {
+      "symbol": "ETNA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd4faed83dea32db211df9fcac83dd366236636e6",
+    "token0": {
+      "symbol": "DRACE"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xe1c69ac41bb536a90c82a443d9063f85e7932a70",
+    "token0": {
+      "symbol": "BSR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x353467a8bc526e7856d69be28e673799f3bff460",
+    "token0": {
+      "symbol": "MagicDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa7cb9729c0152c8107f8821045b84b67c9c647ea",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SBY"
+    }
+  },
+  {
+    "id": "0x3d5a3e3824da092851026fcda3d8a0b7438c4573",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BBT"
+    }
+  },
+  {
+    "id": "0xc9fc1744917d68ee010fecbcbc39d8f0b059a9af",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "KMON"
+    }
+  },
+  {
+    "id": "0xc87d1863f7d8fb4e7dd5c20f2a9a7c0da4be1751",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ANJI"
+    }
+  },
+  {
+    "id": "0x5ede02db9b1fa6b072ee5e4e6aceb2e8d4f071d3",
+    "token0": {
+      "symbol": "SYMBULL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe2dfcfa3bc1b26a42107154208233dfb5dcfe61e",
+    "token0": {
+      "symbol": "KABY"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xe99cf040b7d0af21985596d6fdb1e6e8061ec4c6",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8120fbaf517125636f4c135ecf318e4886511822",
+    "token0": {
+      "symbol": "SPU"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe46fe35b0b670833e10a2a9a02c924d85e2aa942",
+    "token0": {
+      "symbol": "KUBIC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x928be3deb1f8b9e4a24a5744bd313e726462961d",
+    "token0": {
+      "symbol": "HEROES"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x7067a5c321efb1a3063769f6f87979e8c9523690",
+    "token0": {
+      "symbol": "BBYXRP"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa9afc52e9d83dce0506bc1f09a3bb49f0012be16",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x63dd795db5b0831d2ceaa21e07562d77750dfd0d",
+    "token0": {
+      "symbol": "COW"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0xc1dd1d5cbb60e2321c8cc983be1540b49bf7504f",
+    "token0": {
+      "symbol": "USDC"
+    },
+    "token1": {
+      "symbol": "FLUX"
+    }
+  },
+  {
+    "id": "0x40d2b2b7253dda97ab3c1e9cdb5c59452d4fdbe2",
+    "token0": {
+      "symbol": "YO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x55c49d1cd54126c69f22c2e9eebd1efef5e620fa",
+    "token0": {
+      "symbol": "MONSTA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2941273449ab4eb6fcdf8f84763f017fae264091",
+    "token0": {
+      "symbol": "HODL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8d6a90c4e201aaab556d3b6c47a095ce80452184",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BLAST"
+    }
+  },
+  {
+    "id": "0x10d5147c9fa74454f2c600521373cad619e7a13c",
+    "token0": {
+      "symbol": "FTE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x12e43a162713acd6c52ccbaf80cf536b8e55cf6f",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CDROP"
+    }
+  },
+  {
+    "id": "0x8bfe29dea324ef2890cd1a2bf1012345d4f435e7",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x7e7f181b1a7c61988963c1118362f3298c0780dd",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CSWAP"
+    }
+  },
+  {
+    "id": "0xd617cc09a85dc93de9fb1487ac8863936c5e511f",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3d83ee1988cd3a8fdf912602571b0a2354ff338a",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "NanoDOGE"
+    }
+  },
+  {
+    "id": "0x9c86f10d8544d05f21b7a694612456a0e6f02839",
+    "token0": {
+      "symbol": "TCT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3988f98bf5cfdc41ef34a670cdbfdd24720d9f89",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BCMC"
+    }
+  },
+  {
+    "id": "0x4fb44b0a500fa8cadedf89ce81c68efc87e4f3ab",
+    "token0": {
+      "symbol": "SOLAR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2cf62ca075b26656c5dac627ee5533fb6c21aa48",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "STEAMX"
+    }
+  },
+  {
+    "id": "0x5cae7fc3a8f3dc5502fd3f6e2e9faffbff8db119",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BSTS"
+    }
+  },
+  {
+    "id": "0x9ebd5172facd5244721e4add0b5c9180b8dcadac",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "B8"
+    }
+  },
+  {
+    "id": "0x33141be9abeff210991bd5343cbc4273ecd85812",
+    "token0": {
+      "symbol": "OMN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3ad02417b8e0f6609b0b3e2d310a350f8ee523b6",
+    "token0": {
+      "symbol": "MELI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x92fa2d7a73f87ac6cc64cf4946d713301fa206c1",
+    "token0": {
+      "symbol": "TRAVEL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x388b28c75a3547c9eeff7279de4fe2a0ed5be1b3",
+    "token0": {
+      "symbol": "REVO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x727fd366ac94e5cfdc987a0b0a0ed11456f0c52d",
+    "token0": {
+      "symbol": "LDX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x468cde4ad48cbafa3cdfb68fd9f2c114ddfe6c08",
+    "token0": {
+      "symbol": "LAND"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x59ea11cfe863a6d680f4d14bb24343e852abbbbb",
+    "token0": {
+      "symbol": "PERA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x99f513a5b7e2830afb57dd425ee91d64a5453f65",
+    "token0": {
+      "symbol": "$BABYDOGEINU"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x13467e838f60a7f931f19686b6cfefd63d78f64f",
+    "token0": {
+      "symbol": "Mello"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa4d4b9f43366d1440de7331ccc484e0ac5e5a9b9",
+    "token0": {
+      "symbol": "MOONARCH"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x579bb1902e405d056071ad43f4abbf3d42ba0615",
+    "token0": {
+      "symbol": "ZOO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3b1be589e16a1c1f09f554a2339d65ce30125210",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "RDT"
+    }
+  },
+  {
+    "id": "0xbd9797d280096edf522cfbbe1e0257c4c9c4828a",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "KAREN"
+    }
+  },
+  {
+    "id": "0xfa24d6dfc98f66fb525c8b1d2113352251344772",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "NELO"
+    }
+  },
+  {
+    "id": "0x392f351fc02a3b74f7900de81a9aaac13ec28e95",
+    "token0": {
+      "symbol": "lUSD"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x1fc27a66a7bec4765d63f529a5d4f6fe183d116c",
+    "token0": {
+      "symbol": "MINIUSDC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7c020b60fbdeb668834be0367cfba395caae5dfc",
+    "token0": {
+      "symbol": "ZEFI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x27d078b13c2239606783679895ec3b164da24d90",
+    "token0": {
+      "symbol": "upBNB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xaf270888755d2993624ec3381e93d298f94f7d50",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbcabbaa789fd1a503d139c857499e21b4909d69a",
+    "token0": {
+      "symbol": "HERA"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xc0ff9f250d2d97f90bc89bd16d3b5344cdc68d06",
+    "token0": {
+      "symbol": "ANCHOR"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x219d9d1c29337a667199ff666cf725f1588bf4e2",
+    "token0": {
+      "symbol": "YYE"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x3578b1f9bce98d2f4d293b422d8850fdf48b1f21",
+    "token0": {
+      "symbol": "DEXE"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x0ba2e935827bad19be3275b1a48f7d091467de3f",
+    "token0": {
+      "symbol": "KILL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xeb974800b9b92ed7f89dc0f5253ade594e52b0fb",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3b7132ae98f821a0d1d963b677d158e1fa59d8b3",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x886ce05efe5ae373c490c1c6b87c26fe8a7b8ef1",
+    "token0": {
+      "symbol": "XDOGE"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xd3d9b9e4201911f0d0feeceff4128f4d4046784b",
+    "token0": {
+      "symbol": "FSHIB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0b85ddf1921ab0efbfabd0b178b90f64ea2b11d3",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SHIBSC"
+    }
+  },
+  {
+    "id": "0xfae1761d97d37732f3b7e038ca09c2b5dd4e7783",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "VAULT"
+    }
+  },
+  {
+    "id": "0x21db3df90ccbffcc47670dcd083a6ff8cd4751fa",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "MAT"
+    }
+  },
+  {
+    "id": "0x8486f6db9aabae9fd29e5dd357c467f68c6f5dc3",
+    "token0": {
+      "symbol": "G2"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd09b3478bc4a372d2f803182d8f197161b533d31",
+    "token0": {
+      "symbol": "ETHVAULT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8592f26f94704b4443719c8eca61726fc4ed601b",
+    "token0": {
+      "symbol": "ChainCade"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd71a29a46d79747b0547db6ccae034cf4db930e2",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BBoxer"
+    }
+  },
+  {
+    "id": "0x3dbc8ca1fd54bd54cf62719a779490209e2bb4ae",
+    "token0": {
+      "symbol": "MNY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x08c75888519069808bf872b5ca4b97c023baed81",
+    "token0": {
+      "symbol": "CSO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb87b857670a44356f2b70337e0f218713d2378e8",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "ORBS"
+    }
+  },
+  {
+    "id": "0x23217e91cb85026b4809c8ba1211fdd44843c195",
+    "token0": {
+      "symbol": "YUMMY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd28887e926c566527b92bb487c14c8332f2416d0",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xcaa662ad41a662b81be2aea5d59ec0697628665f",
+    "token0": {
+      "symbol": "NAOS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa6a422f3fd886a313c42cd45d3669d0f161fbb0d",
+    "token0": {
+      "symbol": "BRBC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xee6739f85f6a87ff90c360ea2210d5f2cb620320",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "TORII"
+    }
+  },
+  {
+    "id": "0x69f83f11d7f1b2fb9d1b9c31b117ba4432a9d6d3",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "THUNDERCAKE"
+    }
+  },
+  {
+    "id": "0xd977295501f57abd2cab2255f5e8a04d23946ef8",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "TORG"
+    }
+  },
+  {
+    "id": "0x06155034f71811fe0d6568ea8bdf6ec12d04bed2",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CELL"
+    }
+  },
+  {
+    "id": "0xa900f5ef7c36f04838579e54539974905ff84097",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "POO"
+    }
+  },
+  {
+    "id": "0x06af131e9a85390cf477659d6ef27cc13b925f69",
+    "token0": {
+      "symbol": "VITE"
+    },
+    "token1": {
+      "symbol": "BTCB"
+    }
+  },
+  {
+    "id": "0xce53fae5ed06ea5edac75f0e1d69b99a0758c627",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "GART"
+    }
+  },
+  {
+    "id": "0xc65419f335d6e073e8164a4781655e34532405fc",
+    "token0": {
+      "symbol": "MFLOKIADA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x53fa48f1366d4befc116a36c5cf235341fb449a0",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x438aff4595f34f706c04f6bb17be65675a0eaa87",
+    "token0": {
+      "symbol": "MGPXV3"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xae143faa8a4ad1fb2e86df6fd397e93e95c2d30f",
+    "token0": {
+      "symbol": "WAROO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xec5a4b0aa635bebb89068cc7623c6b8a500e3445",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "Waifer"
+    }
+  },
+  {
+    "id": "0x98e7f366487aa697f85fedcb1d27311e7f4d4516",
+    "token0": {
+      "symbol": "RENA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xdea781bfdaf150a0cfe89d0bebd9ab7baa548f37",
+    "token0": {
+      "symbol": "LION"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xfc6e54d025f81743c622d5d3ad7fb8ce2354e5c2",
+    "token0": {
+      "symbol": "GHOSTFACE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc83ac726a9409c8518444bd19e818ed61f3459f9",
+    "token0": {
+      "symbol": "SAFU"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5585b00b1fd30ab27b873d72cf6b5c5886a3343f",
+    "token0": {
+      "symbol": "SON"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc183fcc9e1fab3ffde97231c1bdfbc0b9190b8b4",
+    "token0": {
+      "symbol": "MOONLIGHT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x511f69a3f0cc162df20f73381f674ef6475332ad",
+    "token0": {
+      "symbol": "BFLOKI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5aef2d7f6c2d32cb3603309382615248075aa595",
+    "token0": {
+      "symbol": "KAINET"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbbd961b9cdbf9a0a44f1dd99a927914eb90f5054",
+    "token0": {
+      "symbol": "$MINIKISHU"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5ef473d91e89c613b3e5138fa8279884bf5b7adf",
+    "token0": {
+      "symbol": "TAC"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x419a21ebfe2b108f44dbf19b5da12cce28991c76",
+    "token0": {
+      "symbol": "SURGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x31b15cc4accfa85a6e25ef135825e9ebf024f779",
+    "token0": {
+      "symbol": "Nora"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa413158060556d15c5b26edf7b931a206de32fcf",
+    "token0": {
+      "symbol": "VENT"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xc2f908e359e8802a88abba50a7655e91ccfce2da",
+    "token0": {
+      "symbol": "Spark"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xae7db8558a37353beab610710236ed886cd50442",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x148de8622a60b119f1629c57fe73862c7bde7bda",
+    "token0": {
+      "symbol": "CARMA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0139b0be72030ac88b692c948cd6da282a959fc7",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x4d81ca99c756fd7b0530f64b6a3b0d61beb31433",
+    "token0": {
+      "symbol": "TROLLER"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x95680d94e679fc9d10ad5283074bbc964c8dcdb8",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x47458bc8a4a9b6a378c45506a5006d49ab6dae56",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "GOS"
+    }
+  },
+  {
+    "id": "0xfa83874a1ece9b9ea6dcda94ebd18af2eda0d15d",
+    "token0": {
+      "symbol": "SAFEMARS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x38904c905b174afe0871acfc0f89c74e36a81e66",
+    "token0": {
+      "symbol": "UNCL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1845bbb0682156bc622ddac535cdbe61071ae9e7",
+    "token0": {
+      "symbol": "Shak"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x531febfeb9a61d948c384acfbe6dcc51057aea7e",
+    "token0": {
+      "symbol": "ETH"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0xf6f62fa98d98f6014a1069b6a7fa38110ea73057",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "KLV"
+    }
+  },
+  {
+    "id": "0x2af23683e6858e70d49c954a6c79333bb112d795",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "FlokiElon"
+    }
+  },
+  {
+    "id": "0xa59593c387f0a3c984980a0f4617f5f962d9df59",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ELONBALLS"
+    }
+  },
+  {
+    "id": "0x2a9a4a5efc7ec943a43c48583279991160d3c4a2",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BODAV2"
+    }
+  },
+  {
+    "id": "0x41e572a79fb1f80dd17d54b6db4fbf7436483707",
+    "token0": {
+      "symbol": "NOID"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x60b06d471113d3e64ff10be62ddcceedd1895d61",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "$HONEY"
+    }
+  },
+  {
+    "id": "0x285bb968c91d963d30e7eee7849036ffe2eaab35",
+    "token0": {
+      "symbol": "EVAI"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xa487e06cb74790a09948a69c81a44a12f8ffa6c3",
+    "token0": {
+      "symbol": "OASIS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x55d2aaf63b1c438ebab39dcf4f48fb4e29e940d8",
+    "token0": {
+      "symbol": "SHIBACASH"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2b9f718c64257db6d0e7d59cdaf479dab8af0cfa",
+    "token0": {
+      "symbol": "BMARS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x56871e92b1dd5f31cae46c2ed185b9cb2aeabbae",
+    "token0": {
+      "symbol": "BBTC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe9e3666f64c699529c9d3f9e2c506ff13fde0e61",
+    "token0": {
+      "symbol": "SPACExDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6b49bb4ef7699b7a31be5dc0918d8c0d4e3b7d87",
+    "token0": {
+      "symbol": "Save"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x25ff3bb727d2d88c9310d78c4e9e6538314acb81",
+    "token0": {
+      "symbol": "MARSRISE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3c50bef8518f9ed98f9e0d66db3d2340421a3801",
+    "token0": {
+      "symbol": "FAST"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8e15021cead1e4a4a91f199af8fc8f9be3cd1b4b",
+    "token0": {
+      "symbol": "BabyFloki"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x67d9fdf8dd65d05a8c5190895c03a2df8867a90c",
+    "token0": {
+      "symbol": "Vacay"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xaabafd64feb2ec235b209a95d4dc9b08e225379c",
+    "token0": {
+      "symbol": "MTGY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2f19ea8c559b3a65e693c3c29a8a5970e3699799",
+    "token0": {
+      "symbol": "CATGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xfa33efa1699c18aae6a5d0434a6d785c3cd09324",
+    "token0": {
+      "symbol": "TVL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd76026a78a2a9af2f9f57fe6337eed26bfc26aed",
+    "token0": {
+      "symbol": "BCOIN"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xcca95fd5c89e8e4b18fa408fc58ba215fee58749",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "COP"
+    }
+  },
+  {
+    "id": "0x462674d5d0a5e8748c25290710a115c9171f8449",
+    "token0": {
+      "symbol": "HOP"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3e19c18fe3458a6065d8f0844cb7eae52c9dae07",
+    "token0": {
+      "symbol": "FORM"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x993960ac03afa81b4a72634488339adf345e36a3",
+    "token0": {
+      "symbol": "MASKDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0bd86b23d76febd8cca1cdaa8cac8114f071acd6",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4aea4a6f4d3ac8aad098b58da512d85de788563d",
+    "token0": {
+      "symbol": "ATD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x86e88ae47dfeabd0f208c67fe4bd62af51220704",
+    "token0": {
+      "symbol": "MOONBAR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc562a4a1b5e7639c1522495254cfec4da7147016",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BakedCake"
+    }
+  },
+  {
+    "id": "0x19e3ad8ba9c512d5bacaea568ac5df5c61bc8f9e",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SPY"
+    }
+  },
+  {
+    "id": "0x6199f7ee9c28d034f08c70d363d8f517d26570cd",
+    "token0": {
+      "symbol": "ShibaRocket"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf3fd816a82686d61f404e73f0b751b6fdc985886",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x52ae4e897298e3bda1f6006b6875daba752e1a5e",
+    "token0": {
+      "symbol": "BunnyCake"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf7a01ff935fe32362300774ac05b07033d5276d8",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DYOR"
+    }
+  },
+  {
+    "id": "0x07095e4c4f61fe9ba4904ae8f0481793cf5c12db",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x4f1d308b21ace0eaf13a8a392a73fe15567732ca",
+    "token0": {
+      "symbol": "CISLA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6a00e41561ac36a78dba1d09091b0f00c4e53724",
+    "token0": {
+      "symbol": "OIN"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xc869a9943b702b03770b6a92d2b2d25cf3a3f571",
+    "token0": {
+      "symbol": "Helmet"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x39ca63178b0d4c8c2ebbced8ea55dfce6e014080",
+    "token0": {
+      "symbol": "CTB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xff735d8092e1da499cd8e5a21ba2f6dea55124d9",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CX"
+    }
+  },
+  {
+    "id": "0xbf1ad213fe67cee0170056db50dd519655bc3635",
+    "token0": {
+      "symbol": "DEXI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xef7767677867552cfa699148b96a03358a9be779",
+    "token0": {
+      "symbol": "ATA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x42424a274592415bc3a98c8ccde3830d3d336f8a",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x64e64ec5847d93f9e41ae8b0ec0b61efd614ff42",
+    "token0": {
+      "symbol": "ORE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa02cf1a7fc0936057fec6db6dee6b7c8c102bca5",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x17e9216402138b15b30bd341c0377054e42aebf8",
+    "token0": {
+      "symbol": "STACK"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa454ed3373a7e2242164208c2daae3e05ed4dbb2",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "FOX"
+    }
+  },
+  {
+    "id": "0x5c4667600f247ec2f6b0b5c4e3a5c8576130811c",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x6f5fded99935fb7e9e0d79cf0d2482cd4d39122c",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "INDC"
+    }
+  },
+  {
+    "id": "0xe91840503494228647dd87fddcab73204fe83391",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "BSC-ZEED"
+    }
+  },
+  {
+    "id": "0x7cb10f7548a689ff55aa9bb91abf18b77b94a977",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SCT"
+    }
+  },
+  {
+    "id": "0xef63a1eff5e10bc2a29e3ba17b3701a912cf2378",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "Doogee"
+    }
+  },
+  {
+    "id": "0x0a9072e03e08070fc02e691dcae8f9d70223d949",
+    "token0": {
+      "symbol": "IMO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xcf5a3f750092cd4357708a6dec0af8ebfebd1f30",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SUB"
+    }
+  },
+  {
+    "id": "0x1ab43110d6cdf5ad5a076c2f425817a5cb3bb3ab",
+    "token0": {
+      "symbol": "BPET"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x72dabcb8b9685e561bb262667c8d66e91d03f08d",
+    "token0": {
+      "symbol": "FFT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x825017bebc0aba020919528ae3294066fd355373",
+    "token0": {
+      "symbol": "CARIBMARS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe66783ef2e2bc51958c032f04a37b6f060581fb9",
+    "token0": {
+      "symbol": "WSB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x864e6e5aac336325b13f0f07335b4c8bc24ee621",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BEPR"
+    }
+  },
+  {
+    "id": "0x6e3ba69cfd7b1f01045896268d07d45d722b8361",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ARATA"
+    }
+  },
+  {
+    "id": "0x69873b9b1baf06e23c46a55523c78e8fee5ab85d",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "$ELONOM"
+    }
+  },
+  {
+    "id": "0x819a26d0c6f3af2b9fe4e9c4bcac04fcb3ea7f2a",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "TONCOIN"
+    }
+  },
+  {
+    "id": "0x7b2ecab2ddf9fd8cecf2c0dca38d4b8382cc5591",
+    "token0": {
+      "symbol": "ANUBI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc75b3d693ab0736107c99baa1b62436d14158882",
+    "token0": {
+      "symbol": "REALM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x280669a32dc273d4e90ae6315151281e90b26c21",
+    "token0": {
+      "symbol": "ShibaPup"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3530cb8db20a3f72c7c179e58e4632824f27f1b1",
+    "token0": {
+      "symbol": "BOOST"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x01738bfbb67875417543fad4fe408299d31ea757",
+    "token0": {
+      "symbol": "AMC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4c7de610b9cf3baef610abce5b7a53c4057a8008",
+    "token0": {
+      "symbol": "MONS"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xde5833f2bfde80aeaac054c8c0162ecc3e6f41f8",
+    "token0": {
+      "symbol": "XPNET"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xedc978b7278e06653e94415aff87a286b254a31b",
+    "token0": {
+      "symbol": "ECCHI"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x25945a86b0315ac069841bdbe9af7a7a99e1233b",
+    "token0": {
+      "symbol": "AIDI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x67933be6c8113dfaa2c06f1b7461144b9756fbfe",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DOFI"
+    }
+  },
+  {
+    "id": "0x97359e4b43c5b81de9b9083885ad6208dfddc778",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x211372ffdf8b9695918532d86bdcf8c31beb5ead",
+    "token0": {
+      "symbol": "DEFIDO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6e7decc7abf4e40fb7d11106dfd2873ad57edaf5",
+    "token0": {
+      "symbol": "EVCoin"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0e9a18f9c07c6ab7fa1e97e75ac84fe6d00b4a0d",
+    "token0": {
+      "symbol": "DXG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x28e2460b71a7652ef59ad839e712bffd32b0719b",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "PIZA"
+    }
+  },
+  {
+    "id": "0x78e157405150c1f720a6a38ab5a7167166c9b050",
+    "token0": {
+      "symbol": "SIL"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xce110f2115ff920ea6a3e30bbdf796d753b26f99",
+    "token0": {
+      "symbol": "KUBIC"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xb8d12882506eb461db59f19667afb04d1f7d0516",
+    "token0": {
+      "symbol": "RocketBUSD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x09f39f9b7d6395155396fed7347620dd54da1dc6",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "TENFI"
+    }
+  },
+  {
+    "id": "0x1337421c97f60c1e5b6780b0b356f7632ae3552e",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf35fefcfbbf7a421a7501dea5adc8b6e10099907",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "BabyDeFido"
+    }
+  },
+  {
+    "id": "0x36f3e516f7c88f853156679553cd667224d0cb13",
+    "token0": {
+      "symbol": "KSHIB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x82118db254e4fae1c9bccff1917dd9781a36fc2a",
+    "token0": {
+      "symbol": "BINS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2334d7a30bb2876f8bcc6020f73e7adada40e38d",
+    "token0": {
+      "symbol": "MILKY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe99f4406d8b94b12f8e3dded72a732a203603535",
+    "token0": {
+      "symbol": "ADABoy"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6f03fe42cc15afca15e0046b030307370b53b8af",
+    "token0": {
+      "symbol": "HKUN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa9e90fe8facff39a76586e47849d6d102c220df1",
+    "token0": {
+      "symbol": "hero"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0x5fd3a0fd6076a929e44b6ef4ea64753b35e0a3da",
+    "token0": {
+      "symbol": "BRISE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa1457a29bbe6d6134aed2cdf0165df3b5a1e66e5",
+    "token0": {
+      "symbol": "MSN"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x3991e0988a69e4c8fde46c011dafe55e26fdd18d",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x55469453e760ba6ee3d8275e1c20ec8fee01e8ff",
+    "token0": {
+      "symbol": "STEMX"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xde3e9cd3d43baf931f71618d37ab0c3e8c6c44f9",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "HUGO"
+    }
+  },
+  {
+    "id": "0x182e78f5e814ddd423087348d2b4fb064be50376",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "ELM"
+    }
+  },
+  {
+    "id": "0xecc11a78490866e0073ebc4a4dcb6f75673c8685",
+    "token0": {
+      "symbol": "PANTHER"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x942986b6cbe26a80a5456d5d3ac75860f0e9546e",
+    "token0": {
+      "symbol": "ANCHOR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7fcc533f3ad9b97f7abb7c15b80d7108134ab27a",
+    "token0": {
+      "symbol": "CPHR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xceab80bbf771f41148ac5567d778acf868d48280",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "HyperBoost"
+    }
+  },
+  {
+    "id": "0xa7a0b605343df36b748ff4b5f7578b3f2d0651ce",
+    "token0": {
+      "symbol": "XED"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9ce4fc52f2fd82873e8239a243f7c69ed961204c",
+    "token0": {
+      "symbol": "LZ"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0xc76f9fbe8c3235c4ca01557329d15e045cb155f0",
+    "token0": {
+      "symbol": "XOS"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0x477e3d016da7802165e85c5827f77a591198b784",
+    "token0": {
+      "symbol": "TEASE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xec4fa94eb9d4f94850f9cd14823620b05a12bda5",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "ACK"
+    }
+  },
+  {
+    "id": "0x10de2c5f1ab236f578d3df1d3212ad9ec97b0df5",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DX"
+    }
+  },
+  {
+    "id": "0x29ff2db06901b7788e92dfd9a4cb92b3b61be98c",
+    "token0": {
+      "symbol": "OW"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd8e8d764ac41c81aa30927b35dea3237d48afab7",
+    "token0": {
+      "symbol": "ANTY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe57fbddd667a8a585a54b03168ad1e87bd6dbe20",
+    "token0": {
+      "symbol": "CORGIB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6833d1098b04e66bcdef71ef8f9e97b79b9dfbc8",
+    "token0": {
+      "symbol": "BurnDoge"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x32a9d813275dd8accb15be399fab3bdae7abb185",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x678edb8b268e73db57b7694c163e1dc296b6e219",
+    "token0": {
+      "symbol": "DUSK"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2f734912468b2e99ff225258c1c9faedfdcb2831",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DCB"
+    }
+  },
+  {
+    "id": "0xbed53628550be92380c5fdcd0b1e7e0c7bb522c6",
+    "token0": {
+      "symbol": "ZINU"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa6eb37982af42d43f2f5cbb3ff652c0216d77854",
+    "token0": {
+      "symbol": "ATHENASV2"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe5ceb5e3612b8f7ef06f98f40edc5e00f5c9f26b",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x4af56f065fab006721ab686086be206eba9d1abc",
+    "token0": {
+      "symbol": "WASABI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3c2c77353e2f6ac1578807b6b2336bf3a3cbb014",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ODDZ"
+    }
+  },
+  {
+    "id": "0x0f549dfa141000fa40b74a2b11031dd105b5127c",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ALTRUCOIN"
+    }
+  },
+  {
+    "id": "0xa03dd9ab4c55938dbe90c55b959f04e5d0ea6e9f",
+    "token0": {
+      "symbol": "BUNI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf0e22b03a8c8e9cb583f0f44082025c47a210c93",
+    "token0": {
+      "symbol": "MASK"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x3c11c5f96482da2f1bc3f8913ced350077c050eb",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "GGG"
+    }
+  },
+  {
+    "id": "0x0ac338e60b22d2d485a4513d0f07b643e74da955",
+    "token0": {
+      "symbol": "META"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8c69099758e54e6cc5b87b774ce5df8f9ceb6d38",
+    "token0": {
+      "symbol": "OFB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x11caf306cc86791a1fa3437ec906685bd448249b",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x30182132479fa0c9316f2116d3b2c0b8d0df30b0",
+    "token0": {
+      "symbol": "🥞CAKES"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe7b18d60e442ca384b618479e4303603dda8d221",
+    "token0": {
+      "symbol": "DFI"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x9e4e9b93df5902c90bfdeb5b1dbf419fef1cea4d",
+    "token0": {
+      "symbol": "BabyFB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf0cb491bb5e6788844fddea303c28f8d2f98d521",
+    "token0": {
+      "symbol": "AIRT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3642b52519ba81fd8a204b306d2369a0cc1bc612",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "lowb"
+    }
+  },
+  {
+    "id": "0x6a9e24cd3c57280474672596f7125c12263d5d09",
+    "token0": {
+      "symbol": "CBT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8a4b517d8eccc2178b2c93d3a23e9b328726fbbd",
+    "token0": {
+      "symbol": "OXB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3b458002be8bc1a10a846c12a24924b0df7c234a",
+    "token0": {
+      "symbol": "SHIBBY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7213a321f1855cf1779f42c0cd85d3d95291d34c",
+    "token0": {
+      "symbol": "ETH"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x4b903f3b2c849a2d35f646da3b1dd3b06b00748e",
+    "token0": {
+      "symbol": "KRAKBABY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x22372b33d614ff7cd6cfe76276650ec3bd76fe52",
+    "token0": {
+      "symbol": "SLF"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xcfde1b13a524a06562edc242bb37270f70c564fe",
+    "token0": {
+      "symbol": "FETCH"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xee4c72662056c32fc62db958483209e1af439c52",
+    "token0": {
+      "symbol": "NFS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5cb760abe650e2ac1ebe2703f8077dec349d839a",
+    "token0": {
+      "symbol": "FLOKI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe504a77f5a2c349cbcb9dafb6949297d44fafcba",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xbb908854b9be56a6797060a7e1a9e0ffea4ecd60",
+    "token0": {
+      "symbol": "PANDA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x491edd0463ee4514a097786070e573d91b3935d2",
+    "token0": {
+      "symbol": "CBD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0ef387a86359f620c6992434256a876e4ec1a00d",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SLAM"
+    }
+  },
+  {
+    "id": "0x76e0d4ed63aad34243dbf81cad406ed06aa673c7",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "POLX"
+    }
+  },
+  {
+    "id": "0x99d284353bc9e81c30c7e56bf34768631cd84d07",
+    "token0": {
+      "symbol": "IDM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd3191f4ad93b1cd08e9ae80803ba43160fba225c",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CLOWN"
+    }
+  },
+  {
+    "id": "0xb506424ea3ac7a907f8411a842b8a895d739df0f",
+    "token0": {
+      "symbol": "DARA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x71e6de81381efe0aa98f56b3b43eb3727d640715",
+    "token0": {
+      "symbol": "IDIA"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x7e19234b088cdc2d7edb8e797467c1b722f18f62",
+    "token0": {
+      "symbol": "PCT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe4703742ea274a3de022a0af9d2ac615ab60c5df",
+    "token0": {
+      "symbol": "PXLC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2dd97b5c80a1652627b5a6cf80df9bce9d278f27",
+    "token0": {
+      "symbol": "DGMOON"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x64e4f9fa7da2d8f6c22a853e16b9873112606e43",
+    "token0": {
+      "symbol": "KIBA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbf8bcbac68ffbf09abb4befedcd39e991ef1793d",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SCLP"
+    }
+  },
+  {
+    "id": "0x9531d83f778e3acf5d8393a3bf2b9dbed9d4c915",
+    "token0": {
+      "symbol": "CANDY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x106d09fb63c52d14a79ada02e2fa47277686851a",
+    "token0": {
+      "symbol": "BEACH"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4c33e4b9468381d62c08991473b44ae52b55ca90",
+    "token0": {
+      "symbol": "KING"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x6e8ef155ea3cd56d0eaebaced57f45d93c8a2a31",
+    "token0": {
+      "symbol": "ORT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5453ba92f0711738ef47325751893db62614f533",
+    "token0": {
+      "symbol": "HFT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x075da65514bc2af2508314f8a3150ca660e6eea1",
+    "token0": {
+      "symbol": "RCUBE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1a647142452abe9377775608bd0c415bcf8a60b7",
+    "token0": {
+      "symbol": "Koro"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0x8efd9c26d43ad341f7fff826107e57e5bae7f139",
+    "token0": {
+      "symbol": "PAWG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xeb2a223539b8ba74600aae7d5a649fd5f9dadefe",
+    "token0": {
+      "symbol": "LZ"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc602c810673f81dc6cd128787f3629ea1ada8776",
+    "token0": {
+      "symbol": "KAWAII"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4ccc7649c77b1361c0a82d31a4ec33fc45a81c08",
+    "token0": {
+      "symbol": "MINIDOGEPRO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x36a0c612f986a0b15e665f574d971bad71998977",
+    "token0": {
+      "symbol": "YAG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x63117df49dbf6c3761893a4df6c008a3fae4262d",
+    "token0": {
+      "symbol": "ALI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3d80ec02838b3bcf0ef9a56a20be093d74d38b02",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xcd64e0c6256135b5d0b9c6f7bee12a5f34b92ea5",
+    "token0": {
+      "symbol": "MYBTC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf92d36072d4bbe0cd1b7e282217380751b869652",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DOUGH"
+    }
+  },
+  {
+    "id": "0xa0a7501dca7d4f1a716e8e4836121d3295448b6e",
+    "token0": {
+      "symbol": "FETH"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa70bcc1b7d04e1ef9a60ac4430495d689b16dbb3",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "INFP"
+    }
+  },
+  {
+    "id": "0x98c274dc818214fd6d7d197ef5a0e37e0d3d563c",
+    "token0": {
+      "symbol": "FOXGIRL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x32febe562bb62887712c6702101a97fe8b7fa4ba",
+    "token0": {
+      "symbol": "SQUID"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbaa9f0243525435ac8e141fd9df9532d61000ab7",
+    "token0": {
+      "symbol": "SHED"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe152ee1aa4e204d2d308091b9ae99ff218ebe232",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "CMT"
+    }
+  },
+  {
+    "id": "0xbd25e07c4a0877d7b3cbc16c8ed575c74df2e960",
+    "token0": {
+      "symbol": "NXT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xfbf78726c09ffeb175bddb71d72220c87a29af12",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "MARS"
+    }
+  },
+  {
+    "id": "0xd9af6b982b2a5205ca26106ac639b367afd255d3",
+    "token0": {
+      "symbol": "ANN"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x0725dc8198117809ab0e4d78ed3559db935db1d1",
+    "token0": {
+      "symbol": "GAMESAFE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x218165cde41d551227d377eb0ed52c3c2b18bbaa",
+    "token0": {
+      "symbol": "KDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x133047bc016e5b83d6e9583ea243377ba35ee067",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "DCS"
+    }
+  },
+  {
+    "id": "0x468b2dc8dc75990ee3e9dc0648965ad6294e7914",
+    "token0": {
+      "symbol": "ATOM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x085aae672d801c0194f35c7eef9c229cd6fc375e",
+    "token0": {
+      "symbol": "CHIV"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb13355119d15cb6ff095bd9fe045eec28853bea1",
+    "token0": {
+      "symbol": "NUKE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6b9958dc7027eb2ac1a5bba54c5c25e3425caf15",
+    "token0": {
+      "symbol": "Bashtank"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5384c7668ab1a902dc72c6ad4f5081c7a553d31d",
+    "token0": {
+      "symbol": "CROSS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0cb9cf58205a14bd74e5fccf97fcfa6d9d35dcfe",
+    "token0": {
+      "symbol": "NEKO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x011642c1493696a80eccf0cf0915f06f14e23c30",
+    "token0": {
+      "symbol": "GRV"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x93ac8bdccc8b47e09611fde0f294bf6c80579e51",
+    "token0": {
+      "symbol": "WSB"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x3d730a963c3c6cdc74d0aba0c0388ca4d444ab6c",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SHIBIN"
+    }
+  },
+  {
+    "id": "0x7cb441f177065af7f841ff2e05be4923f8976ba9",
+    "token0": {
+      "symbol": "MommyDoge"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x989f71d69f7b60334631ca22bbbd2711140a3268",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xbcf01a42f6bc42f3cfe81b05519565044d65d22a",
+    "token0": {
+      "symbol": "UST"
+    },
+    "token1": {
+      "symbol": "mCOIN"
+    }
+  },
+  {
+    "id": "0xcac00b5365b765c0166f22e4b0c21166bb94fd73",
+    "token0": {
+      "symbol": "AFT"
+    },
+    "token1": {
+      "symbol": "USDT"
+    }
+  },
+  {
+    "id": "0x01b7ed6c05da6becc337016a7b3996243979ef5e",
+    "token0": {
+      "symbol": "PKD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc31fc5d88871a3bac6bec7e6306e16e02053eec1",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "WNAV"
+    }
+  },
+  {
+    "id": "0xd9ef2ca5ab4eb809c70f84c0b920b2e084c25ea3",
+    "token0": {
+      "symbol": "MGT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc4317be0f7a31535ad98f40b428f163dcea5c34f",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "GM"
+    }
+  },
+  {
+    "id": "0xf3ab7ea6326e17eeb8947a734bbdf47fce094626",
+    "token0": {
+      "symbol": "OCT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbbbd82d4cda4d42a5e68d854876f57f7919cdeca",
+    "token0": {
+      "symbol": "BTBS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x50578425d52de94a560d1130a86b89a643fc018b",
+    "token0": {
+      "symbol": "GAME"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xcfae4b92aaf0f56fae420087833d7a8954f6fe16",
+    "token0": {
+      "symbol": "PRQ"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x118ed46a6ea1ad0938cd637536d4351734ce16ee",
+    "token0": {
+      "symbol": "TRIAS"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x89f94b9cc3cd15b9473b7aa18e3cbceac053a5f2",
+    "token0": {
+      "symbol": "THUNDERETH"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x48d807e5cb92617953a88cce78dcf31012f4d6b6",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "VLX"
+    }
+  },
+  {
+    "id": "0x73c590d8abc5e9894e8d6eb0ce8691797f292b7a",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "MECH"
+    }
+  },
+  {
+    "id": "0x9baea7d63848fa184554d9b9dbb39279a4277792",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "AGSPAD"
+    }
+  },
+  {
+    "id": "0x2565e37265dd8c2daea2be83c77e132bdb39b8d4",
+    "token0": {
+      "symbol": "MDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9abe3c7ee994f6e1f9e833e5ebbaa31e39d8ff2c",
+    "token0": {
+      "symbol": "NADA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc3bf4e0ea6b76c8edd838e14be2116c862c88bdf",
+    "token0": {
+      "symbol": "BUSD"
+    },
+    "token1": {
+      "symbol": "zUSD"
+    }
+  },
+  {
+    "id": "0x083cb3d7fcbbbc955dbc8d91bf54d62c7a00061a",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "iLayer"
+    }
+  },
+  {
+    "id": "0x707e5d91d63dfd92d935ae423f6fc2fef7017b5d",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xadf718ba0c46fbb269d1ae4a7f14641a5b5e7d32",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "INSTINCT"
+    }
+  },
+  {
+    "id": "0x194850932e48753cbeedf0af85022152148addc6",
+    "token0": {
+      "symbol": "CHECOIN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7385f413e784b9e69b16ac79c8c1a156639df95e",
+    "token0": {
+      "symbol": "MFM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc6de9f298d9b8d97040d5fab310cef842302eb8f",
+    "token0": {
+      "symbol": "BYG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x5c42d7059010367a8bc9ae527eb0935e145d7500",
+    "token0": {
+      "symbol": "XHT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2f2ef96cee3226f3038b3a6f387a61687dac90a2",
+    "token0": {
+      "symbol": "GEMG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf0a5ed7774acaff7fabf5867d78bc62b6aa58412",
+    "token0": {
+      "symbol": "UFF"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x140eaa022d8fe2bb53f7afa61d7cee50003bcd2e",
+    "token0": {
+      "symbol": "SPN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2d9bd2a78af9d5569e2212f228765fec1ca4158e",
+    "token0": {
+      "symbol": "TAUR"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x46e5b309ec8cbeb6a789e3b3d77b44e205505c3f",
+    "token0": {
+      "symbol": "ALVN"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xa9338126a645aca52aa74ce65fbc1092eb67d335",
+    "token0": {
+      "symbol": "ELE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x038329e696cc2f9b7ef647a34e08dd36954103b4",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SQUID"
+    }
+  },
+  {
+    "id": "0x39a8998981a362603cef2df695b2f650b53a50c8",
+    "token0": {
+      "symbol": "BabyCare"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc889263c7f9ed0d67007ba8b90c327a01bcffcc9",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "$NINJADOGE"
+    }
+  },
+  {
+    "id": "0xba0004f9bdf36efe76621da5241cc752ede4f4bb",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xdbf75d38f3a8c8c2a39ba1cebddcb18126285ff9",
+    "token0": {
+      "symbol": "NFTS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x60c4929133fbf067308be2010cbed2bb941bcdf7",
+    "token0": {
+      "symbol": "KING"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x51a909e9c9de82c6e9745565838e1af0825da7d8",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "GDOGE"
+    }
+  },
+  {
+    "id": "0xc3a4ce2354b9104ef3aa8912250671add834b144",
+    "token0": {
+      "symbol": "ECT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x168b273278f3a8d302de5e879aa30690b7e6c28f",
+    "token0": {
+      "symbol": "BAND"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6d611e5eb40e8a36f97cda481612688025d8cb0e",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DOWS"
+    }
+  },
+  {
+    "id": "0x5d88ffe80bf728c6985389f8b27d1167ed92e771",
+    "token0": {
+      "symbol": "WIFEDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x826eda8e83633f07e38710feaba65317703a1108",
+    "token0": {
+      "symbol": "LIGHT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9020c65c2afda298889624ca51adc74069300723",
+    "token0": {
+      "symbol": "MPAD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x234ab0e9b61dbcfa838c3f73a910ba8eb4b90e33",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x9fbca2cfb07c72c3568729350f385b513c8d25fc",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "DOGEBULL"
+    }
+  },
+  {
+    "id": "0xcdf0ae9dcdcadb4949338feb7ea7684ddc47c130",
+    "token0": {
+      "symbol": "SWAP"
+    },
+    "token1": {
+      "symbol": "USDC"
+    }
+  },
+  {
+    "id": "0x7ae960972d668b2651261e9d4fc40d4d983dc524",
+    "token0": {
+      "symbol": "JADE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa0feb3c81a36e885b6608df7f0ff69db97491b58",
+    "token0": {
+      "symbol": "DRIP"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x9c6919cc72b532b944e9daef6c82805e69d05875",
+    "token0": {
+      "symbol": "HER"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x7b2bb1686b061bca99e04dfe89f611ef0c36c29b",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x179904d7ee8429f02e72f3e832b185a1c691b3e3",
+    "token0": {
+      "symbol": "PACIFIC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1d602ea65ddab0453bfe36638dc0ffbf3c1b9bb9",
+    "token0": {
+      "symbol": "BFDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x33dae805cc690ceedca58e44d36127d50238c610",
+    "token0": {
+      "symbol": "$Pulsar"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbd42eb2bd83d7bad2fb165de00a6b13af5c73993",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "RICH"
+    }
+  },
+  {
+    "id": "0xb073e412015aa470976a7abdd33c2068c7e5ad37",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x34416a39969d7b0e90394a558ceb74917fc04c33",
+    "token0": {
+      "symbol": "POK"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x083c7943500fb5bd5338439fd0a7ec6fb202072d",
+    "token0": {
+      "symbol": "MetaMoon"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9820165fc904dc2bec81afbbc9d0a5a7dbc53b7c",
+    "token0": {
+      "symbol": "MPAD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x07e71d12b031756f385274dba342c494bd81f517",
+    "token0": {
+      "symbol": "TGB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8d9603447b3f1303d79d42738fa6cb0db2bacc42",
+    "token0": {
+      "symbol": "MONO"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x2d6f381d13a308f8aa86dfe31ec3716dee220b5e",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "DOM"
+    }
+  },
+  {
+    "id": "0x182ca544150654dabfb96e83fb53364c2d8d2168",
+    "token0": {
+      "symbol": "PDX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1c9bf61956631248a39b39369e7997dd6a905c46",
+    "token0": {
+      "symbol": "GSPI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x386023d4b1f93e8b3385e9db9da1b9175ae34ff7",
+    "token0": {
+      "symbol": "BabyPig"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe68f68f12c77d23ef92c9731393f0dec0f4fa7c0",
+    "token0": {
+      "symbol": "FORINT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x98164b0215adb452e87ad029caf5f116b424f130",
+    "token0": {
+      "symbol": "CURE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8c1a4c5e536a75fc58585323ecd4c60da17f5066",
+    "token0": {
+      "symbol": "ARGON"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6612879d031846723ecf7322afb4f3a97a045dc2",
+    "token0": {
+      "symbol": "FATCAKE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa5ebd19961cf4b8af06a9d9d2b91d73b48744867",
+    "token0": {
+      "symbol": "TIME"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc4a63ccf9305a26fbc1e7233824f47de4185623d",
+    "token0": {
+      "symbol": "UMG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf32fb04ad27ee3840a979bdb7cd7197e457a3f8e",
+    "token0": {
+      "symbol": "SOUND"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd88b4608537758197cd1037ae760ff244413f6e9",
+    "token0": {
+      "symbol": "ScorpFin"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x324e826d10d00f9503c5bcddbc282d537f1f393f",
+    "token0": {
+      "symbol": "CHTR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6e04eb8172e838afa9f3568262b8da0d0027250d",
+    "token0": {
+      "symbol": "DSC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x77831a482de9302164b9bd9cbf8aa79fbbe392bc",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xabcb20886b4749205198d627ff6ccfdfffe97112",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "MILK"
+    }
+  },
+  {
+    "id": "0xce5c25393d633bf48eab7db966a68d9897ab0541",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "WDUCX"
+    }
+  },
+  {
+    "id": "0xc9421489694713546634b333cdf367921b4d246f",
+    "token0": {
+      "symbol": "MOWA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0c564c038133589f00c452a8f27ec859a7f4eb6b",
+    "token0": {
+      "symbol": "bQBT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xd4e32fda970a66d0ae93797a8c16e27f26569a11",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xffd8eefb9f0ba3c60282fd3e6567a2c78c994266",
+    "token0": {
+      "symbol": "UMB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xdd2de4a3892c2bfff4a8d00429bab61115697064",
+    "token0": {
+      "symbol": "TBAC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa5399084a5f06d308c4527517bbb781c4dce887c",
+    "token0": {
+      "symbol": "GYRO"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xe875eae797a528c19c5b95b55da0b413413170ce",
+    "token0": {
+      "symbol": "VERA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6b632aa8fcbd98024d48ac3d181b337350f7273d",
+    "token0": {
+      "symbol": "WILD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb1e626349b326efb7f52cef9880732951a1650c7",
+    "token0": {
+      "symbol": "WSC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8692ac9742ce77e0cfbc48a9c3591034b10646c8",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ND"
+    }
+  },
+  {
+    "id": "0xbb6b964f25507ac117c1e40264172f1836157e4e",
+    "token0": {
+      "symbol": "CMD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe016f42dd5d21263cc1e94a119f872849da1721a",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ASCEND"
+    }
+  },
+  {
+    "id": "0xdcf2ad811d757d6a8fc0e643efa7348a0d796eea",
+    "token0": {
+      "symbol": "BoxerDoge"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xdd0349b893cb463c89cb11500ee47786353a5117",
+    "token0": {
+      "symbol": "$SOL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x191a5f8344f166fd53913d1ade3e30cbf7d5e019",
+    "token0": {
+      "symbol": "ECOIN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x82dcada0d0a0dc5f88cd60873e72b13142df89e6",
+    "token0": {
+      "symbol": "ECOP"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x008604a38cd589680f7b8f085dc2d5b4f81151db",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "HAPPY"
+    }
+  },
+  {
+    "id": "0xf09b7eb9dfb93cc02a2fd6d4c683715c8bde5b30",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "MiniSHIBA"
+    }
+  },
+  {
+    "id": "0x504d67fe989eed20871551f961071b1275fdd17b",
+    "token0": {
+      "symbol": "ADAcash"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6c9202e846a79186473b6e4c50064c315b70f93f",
+    "token0": {
+      "symbol": "GAIN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0ad6b8875b49eb420a8d273260cfa3531c24e7f9",
+    "token0": {
+      "symbol": "Flokim"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2fb498caa29015e067a20c4183dd2db343ca4ccc",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "STOPELON"
+    }
+  },
+  {
+    "id": "0x529de98da7ba32e4de6f478eba2387ad75561ec0",
+    "token0": {
+      "symbol": "TAO"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xed3149e3742fa43fac385314980e539e6dcde714",
+    "token0": {
+      "symbol": "EPIC"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x3db574a7a15424e329f70b8c4e8237984462619c",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x5714674e79db8beb7178091ac3e4b195cc826243",
+    "token0": {
+      "symbol": "SD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xfc4f578fa647877ff6df3bfd7a27f8561a27efb8",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x1f37d4226d23d09044b8005c127c0517bd7e94fd",
+    "token0": {
+      "symbol": "LIT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf708f8e6dbbd735ba73def3294d957ddf2e63a89",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "MGP"
+    }
+  },
+  {
+    "id": "0x53028de80b359b303178a31741ddf91969ba89ec",
+    "token0": {
+      "symbol": "PINKSALE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x6421290b1d7bedf69f56c5c7f2ce39f92b48b8df",
+    "token0": {
+      "symbol": "$TIME"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa772950a92c14873650c2f85f54206899f03d261",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x10a4d4d435cbba8e85a506ae6b1f116098ddb849",
+    "token0": {
+      "symbol": "BSL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1959cc7b4e1c7a7f3610a43aea8e8ed9db2fccb8",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ADMONKEY"
+    }
+  },
+  {
+    "id": "0x042f0823c81c987f20666e2de5f8e232d4589b45",
+    "token0": {
+      "symbol": "lilfloki"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x777231968ee9f057ea8c23b811b9f69b2ccdc2a5",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "OSM"
+    }
+  },
+  {
+    "id": "0xb2a4f395efd275e4d878f7d466a028d1100fe34f",
+    "token0": {
+      "symbol": "RLGL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0bc8c5d9cfb88cbf4f1b0e623bc8b8ea76ad960c",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ADS"
+    }
+  },
+  {
+    "id": "0x899f01644eb088acabb720cbe45e9a6de819ce53",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "VEX"
+    }
+  },
+  {
+    "id": "0x141bc94e8a20aee0f8864b31b2bb14a707a3c1d6",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "MrShillz"
+    }
+  },
+  {
+    "id": "0xc4f241705d6a06629ff0b42564af8c1864011ac5",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "EnergyX"
+    }
+  },
+  {
+    "id": "0xe4f54b8529ea82e6ae5904cdac684b973fc1111a",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "LuckyPig"
+    }
+  },
+  {
+    "id": "0xf40784c649790426cfe8e557ab96a7bbc313d216",
+    "token0": {
+      "symbol": "MOLLYDOGE ⭐"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0ca8eafd9b851228c0c7a65a43aded02b964dfd6",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "AVXL"
+    }
+  },
+  {
+    "id": "0x3f603a9206dc9566026ed8fb62a3fe0cf1f02eb5",
+    "token0": {
+      "symbol": "🧬DNA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x99bef9b1d35d7aca6ca83c8d7d8da516b481adff",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "SEEK"
+    }
+  },
+  {
+    "id": "0x4c6e5311d826a16702bf49055323473220f9c2c4",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x45cbef2c8e7b9b36b2e302dce5d4a93f479a278b",
+    "token0": {
+      "symbol": "UTOPIA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xbb82dbc245c1411e9747559a33ff1b06d6d49248",
+    "token0": {
+      "symbol": "BITD"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x95dd195009cfeff55c8e5c4d79f9b3c46eab5080",
+    "token0": {
+      "symbol": "OLY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x653db3d690807e7a6634530ea29ba943b048090b",
+    "token0": {
+      "symbol": "MOONER"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe576ebf57b3776f8892e2df1787cb163f41a1242",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x1090c996fd1490d15dd7906322ee676a5cc3cf82",
+    "token0": {
+      "symbol": "pOPEN"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8c6204f20b09ded6b1989566a3e04d573cf12e8c",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x4492586c471fdd5d66e5e332792c0a20407f91ce",
+    "token0": {
+      "symbol": "GOTCHI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7aafe07ebce911f52c073be29c3cf611d73e4a7f",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "VICE"
+    }
+  },
+  {
+    "id": "0x6b6bae99f8f9c0be500da1d0ff515554d7a6add2",
+    "token0": {
+      "symbol": "SM2"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xac78bd43be00ea7f161bbe2a0ec4a894e7739ef5",
+    "token0": {
+      "symbol": "QB"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x16f3a9794d3cc7ea7fbdf9a460d026db14d6adab",
+    "token0": {
+      "symbol": "RVL"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x74f4d374e5c0e215ac2392ba950781f597b423d3",
+    "token0": {
+      "symbol": "BBETH"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x625bc769032bfdfb311285bb49c5c47fe16b8f46",
+    "token0": {
+      "symbol": "LPI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2bd26aab74d0484a905166420b1aae13db6c07bb",
+    "token0": {
+      "symbol": "$ShibX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7252a9614d2e19c390bf553a2eb51f4e5e6e80b9",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0x13a915f2dfc2d6a327655258c9bc4d120fd0f1ff",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xd967e5555471fd6b983ceccf08b1426553fc0dd8",
+    "token0": {
+      "symbol": "CCDOGE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xa8e72b739841a18751b9b83d0ebccfbc1b489590",
+    "token0": {
+      "symbol": "DRIVENx"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x85222d1c714bbb4540edabb4c386b0090aa77cd0",
+    "token0": {
+      "symbol": "GBTC-1"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x7a596b863787b72c44c2568ccbdea033747ff257",
+    "token0": {
+      "symbol": "Brave"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe4e41127ef1ccd12fd58eea17c7f71a96b34e308",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "$AOW"
+    }
+  },
+  {
+    "id": "0x4ef2ce5e1b54109ea539fb769b6883b8d26859ab",
+    "token0": {
+      "symbol": "EMPR"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9cde6751d0de79593eb5436a4d9309f9f81cd64b",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "bPRIVA"
+    }
+  },
+  {
+    "id": "0xb67863dac2071562e0afe77e343659c83d961e47",
+    "token0": {
+      "symbol": "ELON"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x9cf0a5979f6987bc582ec019b389be417ff19880",
+    "token0": {
+      "symbol": "DFSG"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb377a96a60bbddfba8b06525979e532f54d3fc07",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "NFTPorn"
+    }
+  },
+  {
+    "id": "0xb24da9dcb23f5cafd0dc398ee3f3c516303be0ad",
+    "token0": {
+      "symbol": "FREEMOON"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x2ebaa4f053fced95c313d54288ae6914e3dc7afc",
+    "token0": {
+      "symbol": "OBT"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x06be3b8295dd0a8d7adc7fc1f25a3450a7c7184a",
+    "token0": {
+      "symbol": "DPACE"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0bca6e9b2c6c83ebd457fb0d12fa5763114a8920",
+    "token0": {
+      "symbol": "bLEO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xaf455a134635ad06c7d9ab6fe62dacc335a516f9",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "$BST"
+    }
+  },
+  {
+    "id": "0x0e7754a3e4abe1e1b65a1931061cca51f6ca95ee",
+    "token0": {
+      "symbol": "LIC"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xfd9c08f02fa7c768c6fbe39b6b29dcae767d03a0",
+    "token0": {
+      "symbol": "AK"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x0e6771d00b355d4fd671397146e85288747c83b2",
+    "token0": {
+      "symbol": "COCO"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x339d3d0c330a705e70f78c18c64999381ee1910a",
+    "token0": {
+      "symbol": "$Lordz"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xe822489217278673c22fb7ba5f2d2fd49bf98c0f",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "NMBTC"
+    }
+  },
+  {
+    "id": "0x498c6f040b12daddfc5e001577b25e6780b7a833",
+    "token0": {
+      "symbol": "MFLOKI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb1c508f942c1d1b1a44384bcc92885e43887d0fa",
+    "token0": {
+      "symbol": "TFI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x31fdf4333d2edcadcebd25edd7dabcb73b27e851",
+    "token0": {
+      "symbol": "WSPP"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xb2d1b529b4e61156798393f0e97fa9b4a1490502",
+    "token0": {
+      "symbol": "SNK"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xbfe27e64b7b11669b74cc99630cebf048e8b65c6",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "ROC"
+    }
+  },
+  {
+    "id": "0xdf16b952cf4dd07d3649ab2a64930e3c41aac82f",
+    "token0": {
+      "symbol": "SK"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x763cc7bb7313fcb6ee25944d4998e72db20846b5",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "OKBOOMER"
+    }
+  },
+  {
+    "id": "0xcd106f8eb261540a24369fa3a6eaa399a87b974f",
+    "token0": {
+      "symbol": "MOOV"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x030576e072ad56c593116d5e0781d589dcf3abc9",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xf6f9e01ed29382a5272ad0740d1c214f88aa478d",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xe8efb51e051b08614df535ee192b0672627bdbf9",
+    "token0": {
+      "symbol": "SCIX"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x4c95bc2049356350b16af6e17b5bca190ea3a038",
+    "token0": {
+      "symbol": "MAGA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xc3d65c788e6c630c2475ecff673b0056078ee624",
+    "token0": {
+      "symbol": "PkMon"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x932c0502efacb3d5f9c7e05c499b8e3b0b3b2a41",
+    "token0": {
+      "symbol": "KAMPAY"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xfdeca5f04c265f4c08a8d0fbd55a8cf05dc3a575",
+    "token0": {
+      "symbol": "MoonMiner"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xf60e5a7ded55a0f1a796af3b720ba58af6c06535",
+    "token0": {
+      "symbol": "MULTI"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1099c2e6ed6eba95099c205b599b409305783e43",
+    "token0": {
+      "symbol": "ALPACA"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x11ab064e6ead98a60683c2a02da8a01b88000ef3",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "CMP"
+    }
+  },
+  {
+    "id": "0x4c2815e7c15b2262d02d2fbd44690265cfc3b436",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "unknown"
+    }
+  },
+  {
+    "id": "0xa810018ac23d4b2ad759d423776f7f2522de5fee",
+    "token0": {
+      "symbol": "OTIUM"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x99bf883e494fa8f3fb205f551caf4a51699feb40",
+    "token0": {
+      "symbol": "USDT"
+    },
+    "token1": {
+      "symbol": "KWS"
+    }
+  },
+  {
+    "id": "0x5149b70262d8d2e82c2c599c4d6d56d3efce8432",
+    "token0": {
+      "symbol": "H2O"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x31cbf5380f81b1a58422b77c4e815ec8f41d1971",
+    "token0": {
+      "symbol": "LESS"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x8b6f96f826130b970099184f173d464ae315214d",
+    "token0": {
+      "symbol": "HONEYX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x1e424be2a35a2519bd01d27828cae70df7e5c8de",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "XLD"
+    }
+  },
+  {
+    "id": "0x11fb862301608806aab9085d46abcc4eadb2bace",
+    "token0": {
+      "symbol": "INSUR"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0xc497694ebc666aaa5201df7499bba1598ffc7ab2",
+    "token0": {
+      "symbol": "BTCB"
+    },
+    "token1": {
+      "symbol": "FIT"
+    }
+  },
+  {
+    "id": "0x55af7b690bd3576f539f0c96697e3fe92d09e979",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0x03abe2e1fada1275f752fc4a0ad38385b25b767f",
+    "token0": {
+      "symbol": "ADX"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  },
+  {
+    "id": "0xaa79c02bd151a3d17246db2e98a1b476ecc9ac14",
+    "token0": {
+      "symbol": "WBNB"
+    },
+    "token1": {
+      "symbol": "KCAKE"
+    }
+  },
+  {
+    "id": "0xd39f05ab936aa201235005c47b83268f2d9833f8",
+    "token0": {
+      "symbol": "XCV"
+    },
+    "token1": {
+      "symbol": "BUSD"
+    }
+  },
+  {
+    "id": "0x845c22e466c96c69264ae5712447894d19fd7ca7",
+    "token0": {
+      "symbol": "unknown"
+    },
+    "token1": {
+      "symbol": "WBNB"
+    }
+  }
+]
